@@ -1,10 +1,10 @@
 @font-face {
     font-family: "bliss-diacritics";
     src: url("../webfonts/diacritics.eot?2470d0610c7b884f0ebd107665b48b09#iefix") format("embedded-opentype"),
-url("../webfonts/diacritics.ttf?2470d0610c7b884f0ebd107665b48b09") format("truetype"),
-url("../webfonts/diacritics.svg?2470d0610c7b884f0ebd107665b48b09#diacritics") format("svg"),
-url("../webfonts/diacritics.woff?2470d0610c7b884f0ebd107665b48b09") format("woff"),
-url("../webfonts/diacritics.woff2?2470d0610c7b884f0ebd107665b48b09") format("woff2");
+    url("../webfonts/diacritics.ttf?2470d0610c7b884f0ebd107665b48b09") format("truetype"),
+    url("../webfonts/diacritics.svg?2470d0610c7b884f0ebd107665b48b09#diacritics") format("svg"),
+    url("../webfonts/diacritics.woff?2470d0610c7b884f0ebd107665b48b09") format("woff"),
+    url("../webfonts/diacritics.woff2?2470d0610c7b884f0ebd107665b48b09") format("woff2");
 }
 
 i[class^="bs-"]:before, i[class*=" bs-"]:before {
@@ -18,321 +18,321 @@ i[class^="bs-"]:before, i[class*=" bs-"]:before {
     -moz-osx-font-smoothing: grayscale;
 }
 
-.bs-8483:before {
+.bs-8483:before, .bs-exclamation_mark:before {
     content: "\f101";
 }
-.bs-8484:before {
+.bs-8484:before, .bs-percent-percentage:before {
     content: "\f102";
 }
-.bs-8485:before {
+.bs-8485:before, .bs-question_mark:before {
     content: "\f103";
 }
-.bs-8486:before {
+.bs-8486:before, .bs-period-point-full_stop-decimal_point:before {
     content: "\f104";
 }
-.bs-8487:before {
+.bs-8487:before, .bs-comma:before {
     content: "\f105";
 }
-.bs-8488:before {
+.bs-8488:before, .bs-colon:before {
     content: "\f106";
 }
-.bs-8489:before {
+.bs-8489:before, .bs-apostrophe:before {
     content: "\f107";
 }
-.bs-8490:before {
+.bs-8490:before, .bs-degree:before {
     content: "\f108";
 }
-.bs-8496:before {
+.bs-8496:before, .bs-zero_digit-0:before {
     content: "\f109";
 }
-.bs-8497:before {
+.bs-8497:before, .bs-one_digit-1:before {
     content: "\f10a";
 }
-.bs-8498:before {
+.bs-8498:before, .bs-two_digit-2:before {
     content: "\f10b";
 }
-.bs-8499:before {
+.bs-8499:before, .bs-three_digit-3:before {
     content: "\f10c";
 }
-.bs-8500:before {
+.bs-8500:before, .bs-four_digit-4:before {
     content: "\f10d";
 }
-.bs-8501:before {
+.bs-8501:before, .bs-five_digit-5:before {
     content: "\f10e";
 }
-.bs-8502:before {
+.bs-8502:before, .bs-six_digit-6:before {
     content: "\f10f";
 }
-.bs-8503:before {
+.bs-8503:before, .bs-seven_digit-7:before {
     content: "\f110";
 }
-.bs-8504:before {
+.bs-8504:before, .bs-eight_digit-8:before {
     content: "\f111";
 }
-.bs-8505:before {
+.bs-8505:before, .bs-nine_digit-9:before {
     content: "\f112";
 }
-.bs-8510:before {
+.bs-8510:before, .bs-zero_index_number:before {
     content: "\f113";
 }
-.bs-8511:before {
+.bs-8511:before, .bs-one_index_number:before {
     content: "\f114";
 }
-.bs-8512:before {
+.bs-8512:before, .bs-two_index_number:before {
     content: "\f115";
 }
-.bs-8513:before {
+.bs-8513:before, .bs-three_index_number:before {
     content: "\f116";
 }
-.bs-8514:before {
+.bs-8514:before, .bs-four_index_number:before {
     content: "\f117";
 }
-.bs-8515:before {
+.bs-8515:before, .bs-five_index_number:before {
     content: "\f118";
 }
-.bs-8516:before {
+.bs-8516:before, .bs-six_index_number:before {
     content: "\f119";
 }
-.bs-8517:before {
+.bs-8517:before, .bs-seven_index_number:before {
     content: "\f11a";
 }
-.bs-8518:before {
+.bs-8518:before, .bs-eight_index_number:before {
     content: "\f11b";
 }
-.bs-8519:before {
+.bs-8519:before, .bs-nine_index_number:before {
     content: "\f11c";
 }
-.bs-8521:before {
+.bs-8521:before, .bs-a_lowercase:before {
     content: "\f11d";
 }
-.bs-8522:before {
+.bs-8522:before, .bs-b_lowercase:before {
     content: "\f11e";
 }
-.bs-8523:before {
+.bs-8523:before, .bs-c_lowercase:before {
     content: "\f11f";
 }
-.bs-8524:before {
+.bs-8524:before, .bs-d_lowercase:before {
     content: "\f120";
 }
-.bs-8525:before {
+.bs-8525:before, .bs-e_lowercase:before {
     content: "\f121";
 }
-.bs-8526:before {
+.bs-8526:before, .bs-f_lowercase:before {
     content: "\f122";
 }
-.bs-8527:before {
+.bs-8527:before, .bs-g_lowercase:before {
     content: "\f123";
 }
-.bs-8528:before {
+.bs-8528:before, .bs-h_lowercase:before {
     content: "\f124";
 }
-.bs-8529:before {
+.bs-8529:before, .bs-i_lowercase:before {
     content: "\f125";
 }
-.bs-8530:before {
+.bs-8530:before, .bs-j_lowercase:before {
     content: "\f126";
 }
-.bs-8531:before {
+.bs-8531:before, .bs-k_lowercase:before {
     content: "\f127";
 }
-.bs-8532:before {
+.bs-8532:before, .bs-l_lowercase:before {
     content: "\f128";
 }
-.bs-8533:before {
+.bs-8533:before, .bs-m_lowercase:before {
     content: "\f129";
 }
-.bs-8534:before {
+.bs-8534:before, .bs-n_lowercase:before {
     content: "\f12a";
 }
-.bs-8535:before {
+.bs-8535:before, .bs-o_lowercase:before {
     content: "\f12b";
 }
-.bs-8536:before {
+.bs-8536:before, .bs-p_lowercase:before {
     content: "\f12c";
 }
-.bs-8537:before {
+.bs-8537:before, .bs-q_lowercase:before {
     content: "\f12d";
 }
-.bs-8538:before {
+.bs-8538:before, .bs-r_lowercase:before {
     content: "\f12e";
 }
-.bs-8539:before {
+.bs-8539:before, .bs-s_lowercase:before {
     content: "\f12f";
 }
-.bs-8540:before {
+.bs-8540:before, .bs-t_lowercase:before {
     content: "\f130";
 }
-.bs-8541:before {
+.bs-8541:before, .bs-u_lowercase:before {
     content: "\f131";
 }
-.bs-8542:before {
+.bs-8542:before, .bs-v_lowercase:before {
     content: "\f132";
 }
-.bs-8543:before {
+.bs-8543:before, .bs-w_lowercase:before {
     content: "\f133";
 }
-.bs-8544:before {
+.bs-8544:before, .bs-x_lowercase:before {
     content: "\f134";
 }
-.bs-8545:before {
+.bs-8545:before, .bs-y_lowercase:before {
     content: "\f135";
 }
-.bs-8546:before {
+.bs-8546:before, .bs-z_lowercase:before {
     content: "\f136";
 }
-.bs-8551:before {
+.bs-8551:before, .bs-A_uppercase:before {
     content: "\f137";
 }
-.bs-8552:before {
+.bs-8552:before, .bs-B_uppercase:before {
     content: "\f138";
 }
-.bs-8553:before {
+.bs-8553:before, .bs-C_uppercase:before {
     content: "\f139";
 }
-.bs-8554:before {
+.bs-8554:before, .bs-D_uppercase:before {
     content: "\f13a";
 }
-.bs-8555:before {
+.bs-8555:before, .bs-E_uppercase:before {
     content: "\f13b";
 }
-.bs-8556:before {
+.bs-8556:before, .bs-F_uppercase:before {
     content: "\f13c";
 }
-.bs-8557:before {
+.bs-8557:before, .bs-G_uppercase:before {
     content: "\f13d";
 }
-.bs-8558:before {
+.bs-8558:before, .bs-H_uppercase:before {
     content: "\f13e";
 }
-.bs-8559:before {
+.bs-8559:before, .bs-I_uppercase:before {
     content: "\f13f";
 }
-.bs-8560:before {
+.bs-8560:before, .bs-J_uppercase:before {
     content: "\f140";
 }
-.bs-8561:before {
+.bs-8561:before, .bs-K_uppercase:before {
     content: "\f141";
 }
-.bs-8562:before {
+.bs-8562:before, .bs-L_uppercase:before {
     content: "\f142";
 }
-.bs-8563:before {
+.bs-8563:before, .bs-M_uppercase:before {
     content: "\f143";
 }
-.bs-8564:before {
+.bs-8564:before, .bs-N_uppercase:before {
     content: "\f144";
 }
-.bs-8565:before {
+.bs-8565:before, .bs-O_uppercase:before {
     content: "\f145";
 }
-.bs-8566:before {
+.bs-8566:before, .bs-P_uppercase:before {
     content: "\f146";
 }
-.bs-8567:before {
+.bs-8567:before, .bs-Q_uppercase:before {
     content: "\f147";
 }
-.bs-8568:before {
+.bs-8568:before, .bs-R_uppercase:before {
     content: "\f148";
 }
-.bs-8569:before {
+.bs-8569:before, .bs-S_uppercase:before {
     content: "\f149";
 }
-.bs-8570:before {
+.bs-8570:before, .bs-T_uppercase:before {
     content: "\f14a";
 }
-.bs-8571:before {
+.bs-8571:before, .bs-U_uppercase:before {
     content: "\f14b";
 }
-.bs-8572:before {
+.bs-8572:before, .bs-V_uppercase:before {
     content: "\f14c";
 }
-.bs-8573:before {
+.bs-8573:before, .bs-W_uppercase:before {
     content: "\f14d";
 }
-.bs-8574:before {
+.bs-8574:before, .bs-X_uppercase:before {
     content: "\f14e";
 }
-.bs-8575:before {
+.bs-8575:before, .bs-Y_uppercase:before {
     content: "\f14f";
 }
-.bs-8576:before {
+.bs-8576:before, .bs-Z_uppercase:before {
     content: "\f150";
 }
-.bs-8993:before {
+.bs-8993:before, .bs-indicator_action:before {
     content: "\f151";
 }
-.bs-8994:before {
+.bs-8994:before, .bs-indicator_active:before {
     content: "\f152";
 }
-.bs-8995:before {
+.bs-8995:before, .bs-indicator_conditional:before {
     content: "\f153";
 }
-.bs-8996:before {
+.bs-8996:before, .bs-indicator_description_after_fact:before {
     content: "\f154";
 }
-.bs-8997:before {
+.bs-8997:before, .bs-indicator_description_before_fact:before {
     content: "\f155";
 }
-.bs-8998:before {
+.bs-8998:before, .bs-indicator_description:before {
     content: "\f156";
 }
-.bs-8999:before {
+.bs-8999:before, .bs-indicator_future_action:before {
     content: "\f157";
 }
-.bs-9000:before {
+.bs-9000:before, .bs-indicator_future_conditional:before {
     content: "\f158";
 }
-.bs-9001:before {
+.bs-9001:before, .bs-indicator_future_passive:before {
     content: "\f159";
 }
-.bs-9002:before {
+.bs-9002:before, .bs-indicator_future_passive_conditional:before {
     content: "\f15a";
 }
-.bs-9003:before {
+.bs-9003:before, .bs-indicator_passive:before {
     content: "\f15b";
 }
-.bs-9004:before {
+.bs-9004:before, .bs-indicator_past_action:before {
     content: "\f15c";
 }
-.bs-9005:before {
+.bs-9005:before, .bs-indicator_past_conditional:before {
     content: "\f15d";
 }
-.bs-9006:before {
+.bs-9006:before, .bs-indicator_past_passive_conditional:before {
     content: "\f15e";
 }
-.bs-9007:before {
+.bs-9007:before, .bs-indicator_past_passive:before {
     content: "\f15f";
 }
-.bs-9008:before {
+.bs-9008:before, .bs-indicator_present_passive_conditional:before {
     content: "\f160";
 }
-.bs-9009:before {
+.bs-9009:before, .bs-indicator_thing:before {
     content: "\f161";
 }
-.bs-9010:before {
+.bs-9010:before, .bs-indicator_things:before {
     content: "\f162";
 }
-.bs-9011:before {
+.bs-9011:before, .bs-indicator_plural:before {
     content: "\f163";
 }
-.bs-24665:before {
+.bs-24665:before, .bs-indicator_adverb:before {
     content: "\f164";
 }
-.bs-24667:before {
+.bs-24667:before, .bs-indicator_definite_form:before {
     content: "\f165";
 }
-.bs-24670:before {
+.bs-24670:before, .bs-indicator_imperative_form:before {
     content: "\f166";
 }
-.bs-24674:before {
+.bs-24674:before, .bs-indicator_past_participle_1:before {
     content: "\f167";
 }
-.bs-24675:before {
+.bs-24675:before, .bs-indicator_past_participle_2:before {
     content: "\f168";
 }
-.bs-24677:before {
+.bs-24677:before, .bs-indicator_present_participle:before {
     content: "\f169";
 }
-.bs-24807:before {
+.bs-24807:before, .bs-indicator_present_action:before {
     content: "\f16a";
 }

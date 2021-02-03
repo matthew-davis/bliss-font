@@ -1,10 +1,10 @@
 @font-face {
     font-family: "bliss-characters";
     src: url("../webfonts/characters.eot?4f8060db28441d6c1972649b35d4503d#iefix") format("embedded-opentype"),
-url("../webfonts/characters.ttf?4f8060db28441d6c1972649b35d4503d") format("truetype"),
-url("../webfonts/characters.svg?4f8060db28441d6c1972649b35d4503d#characters") format("svg"),
-url("../webfonts/characters.woff?4f8060db28441d6c1972649b35d4503d") format("woff"),
-url("../webfonts/characters.woff2?4f8060db28441d6c1972649b35d4503d") format("woff2");
+    url("../webfonts/characters.ttf?4f8060db28441d6c1972649b35d4503d") format("truetype"),
+    url("../webfonts/characters.svg?4f8060db28441d6c1972649b35d4503d#characters") format("svg"),
+    url("../webfonts/characters.woff?4f8060db28441d6c1972649b35d4503d") format("woff"),
+    url("../webfonts/characters.woff2?4f8060db28441d6c1972649b35d4503d") format("woff2");
 }
 
 i[class^="bs-"]:before, i[class*=" bs-"]:before {
@@ -18,3096 +18,3096 @@ i[class^="bs-"]:before, i[class*=" bs-"]:before {
     -moz-osx-font-smoothing: grayscale;
 }
 
-.bs-12321:before {
+.bs-12321:before, .bs-a-an-any:before {
     content: "\f101";
 }
-.bs-12322:before {
+.bs-12322:before, .bs-ability-capability-capacity-potential:before {
     content: "\f102";
 }
-.bs-12324:before {
+.bs-12324:before, .bs-about-concerning-in_relation_to-of-on:before {
     content: "\f103";
 }
-.bs-12330:before {
+.bs-12330:before, .bs-account:before {
     content: "\f104";
 }
-.bs-12333:before {
+.bs-12333:before, .bs-across:before {
     content: "\f105";
 }
-.bs-12334:before {
+.bs-12334:before, .bs-action-act-deed:before {
     content: "\f106";
 }
-.bs-12335:before {
+.bs-12335:before, .bs-activity-male_gender_in_combinations:before {
     content: "\f107";
 }
-.bs-12339:before {
+.bs-12339:before, .bs-addition-gain:before {
     content: "\f108";
 }
-.bs-12341:before {
+.bs-12341:before, .bs-adult-grownup:before {
     content: "\f109";
 }
-.bs-12348:before {
+.bs-12348:before, .bs-after-behind:before {
     content: "\f10a";
 }
-.bs-12350:before {
+.bs-12350:before, .bs-again:before {
     content: "\f10b";
 }
-.bs-12351:before {
+.bs-12351:before, .bs-against-opposed_to:before {
     content: "\f10c";
 }
-.bs-12352:before {
+.bs-12352:before, .bs-ago-then_past:before {
     content: "\f10d";
 }
-.bs-12354:before {
+.bs-12354:before, .bs-agreement:before {
     content: "\f10e";
 }
-.bs-12356:before {
+.bs-12356:before, .bs-air-atmosphere:before {
     content: "\f10f";
 }
-.bs-12357:before {
+.bs-12357:before, .bs-airplane-aeroplane-plane:before {
     content: "\f110";
 }
-.bs-12359:before {
+.bs-12359:before, .bs-alcoholic_drink-alcoholic_beverage-liquor:before {
     content: "\f111";
 }
-.bs-12360:before {
+.bs-12360:before, .bs-all-every-everything-total-whole:before {
     content: "\f112";
 }
-.bs-12366:before {
+.bs-12366:before, .bs-alphabet-letters_lowercase:before {
     content: "\f113";
 }
-.bs-12367:before {
+.bs-12367:before, .bs-although:before {
     content: "\f114";
 }
-.bs-12374:before {
+.bs-12374:before, .bs-and-also-plus-too:before {
     content: "\f115";
 }
-.bs-12376:before {
+.bs-12376:before, .bs-angle:before {
     content: "\f116";
 }
-.bs-12378:before {
+.bs-12378:before, .bs-animal-beast:before {
     content: "\f117";
 }
-.bs-12379:before {
+.bs-12379:before, .bs-animal_bovine-ovine-bovid-bovine:before {
     content: "\f118";
 }
-.bs-12380:before {
+.bs-12380:before, .bs-dog-canine_animal-canid:before {
     content: "\f119";
 }
-.bs-12381:before {
+.bs-12381:before, .bs-deer-cervine_animal-cervid:before {
     content: "\f11a";
 }
-.bs-12383:before {
+.bs-12383:before, .bs-cat-feline_animal-felid:before {
     content: "\f11b";
 }
-.bs-12389:before {
+.bs-12389:before, .bs-animal_water:before {
     content: "\f11c";
 }
-.bs-12391:before {
+.bs-12391:before, .bs-ankle:before {
     content: "\f11d";
 }
-.bs-12393:before {
+.bs-12393:before, .bs-answer-reply:before {
     content: "\f11e";
 }
-.bs-12402:before {
+.bs-12402:before, .bs-anywhere-anyplace-someplace-somewhere:before {
     content: "\f11f";
 }
-.bs-12405:before {
+.bs-12405:before, .bs-apple:before {
     content: "\f120";
 }
-.bs-12577:before {
+.bs-12577:before, .bs-arm:before {
     content: "\f121";
 }
-.bs-12578:before {
+.bs-12578:before, .bs-armchair:before {
     content: "\f122";
 }
-.bs-12580:before {
+.bs-12580:before, .bs-around:before {
     content: "\f123";
 }
-.bs-12591:before {
+.bs-12591:before, .bs-at:before {
     content: "\f124";
 }
-.bs-12592:before {
+.bs-12592:before, .bs-atom:before {
     content: "\f125";
 }
-.bs-12596:before {
+.bs-12596:before, .bs-aunt:before {
     content: "\f126";
 }
-.bs-12600:before {
+.bs-12600:before, .bs-avocado:before {
     content: "\f127";
 }
-.bs-12603:before {
+.bs-12603:before, .bs-baby-infant:before {
     content: "\f128";
 }
-.bs-12604:before {
+.bs-12604:before, .bs-baby_boy:before {
     content: "\f129";
 }
-.bs-12607:before {
+.bs-12607:before, .bs-baby_girl:before {
     content: "\f12a";
 }
-.bs-12609:before {
+.bs-12609:before, .bs-back_body:before {
     content: "\f12b";
 }
-.bs-12610:before {
+.bs-12610:before, .bs-back_and_forth-backward_and_forward-to_and_fro:before {
     content: "\f12c";
 }
-.bs-12613:before {
+.bs-12613:before, .bs-backward-back:before {
     content: "\f12d";
 }
-.bs-12616:before {
+.bs-12616:before, .bs-badge-shield:before {
     content: "\f12e";
 }
-.bs-12618:before {
+.bs-12618:before, .bs-baggage-bag-luggage-suitcase:before {
     content: "\f12f";
 }
-.bs-12621:before {
+.bs-12621:before, .bs-ball:before {
     content: "\f130";
 }
-.bs-12622:before {
+.bs-12622:before, .bs-balloon:before {
     content: "\f131";
 }
-.bs-12623:before {
+.bs-12623:before, .bs-banana:before {
     content: "\f132";
 }
-.bs-12631:before {
+.bs-12631:before, .bs-barrier_contraceptive:before {
     content: "\f133";
 }
-.bs-12636:before {
+.bs-12636:before, .bs-bat_animal:before {
     content: "\f134";
 }
-.bs-12640:before {
+.bs-12640:before, .bs-beach-bank-coast-shore:before {
     content: "\f135";
 }
-.bs-12642:before {
+.bs-12642:before, .bs-bean:before {
     content: "\f136";
 }
-.bs-12644:before {
+.bs-12644:before, .bs-beard:before {
     content: "\f137";
 }
-.bs-12649:before {
+.bs-12649:before, .bs-bed:before {
     content: "\f138";
 }
-.bs-12655:before {
+.bs-12655:before, .bs-beetle:before {
     content: "\f139";
 }
-.bs-12656:before {
+.bs-12656:before, .bs-before-in_front_of-prior_to:before {
     content: "\f13a";
 }
-.bs-12658:before {
+.bs-12658:before, .bs-beginning-start:before {
     content: "\f13b";
 }
-.bs-12663:before {
+.bs-12663:before, .bs-belongs_to-of_possessive:before {
     content: "\f13c";
 }
-.bs-12666:before {
+.bs-12666:before, .bs-berry:before {
     content: "\f13d";
 }
-.bs-12669:before {
+.bs-12669:before, .bs-between:before {
     content: "\f13e";
 }
-.bs-12837:before {
+.bs-12837:before, .bs-bird:before {
     content: "\f13f";
 }
-.bs-12840:before {
+.bs-12840:before, .bs-duck-bird_water-waterbird-waterfowl-seabird-seafowl:before {
     content: "\f140";
 }
-.bs-12842:before {
+.bs-12842:before, .bs-birth-giving_birth-parturition-delivery:before {
     content: "\f141";
 }
-.bs-12843:before {
+.bs-12843:before, .bs-birth:before {
     content: "\f142";
 }
-.bs-12857:before {
+.bs-12857:before, .bs-blissymbol-Bliss-word:before {
     content: "\f143";
 }
-.bs-12860:before {
+.bs-12860:before, .bs-block-brick:before {
     content: "\f144";
 }
-.bs-12868:before {
+.bs-12868:before, .bs-board_material:before {
     content: "\f145";
 }
-.bs-12869:before {
+.bs-12869:before, .bs-boat-ship:before {
     content: "\f146";
 }
-.bs-12870:before {
+.bs-12870:before, .bs-body-trunk:before {
     content: "\f147";
 }
-.bs-12873:before {
+.bs-12873:before, .bs-bone:before {
     content: "\f148";
 }
-.bs-12875:before {
+.bs-12875:before, .bs-book:before {
     content: "\f149";
 }
-.bs-12880:before {
+.bs-12880:before, .bs-bottle-flask:before {
     content: "\f14a";
 }
-.bs-12881:before {
+.bs-12881:before, .bs-bottom-base:before {
     content: "\f14b";
 }
-.bs-12882:before {
+.bs-12882:before, .bs-bow_knot:before {
     content: "\f14c";
 }
-.bs-12886:before {
+.bs-12886:before, .bs-box-cube:before {
     content: "\f14d";
 }
-.bs-12888:before {
+.bs-12888:before, .bs-boy-lad:before {
     content: "\f14e";
 }
-.bs-12894:before {
+.bs-12894:before, .bs-branch:before {
     content: "\f14f";
 }
-.bs-12895:before {
+.bs-12895:before, .bs-bread-loaf_of_bread-loaf:before {
     content: "\f150";
 }
-.bs-12899:before {
+.bs-12899:before, .bs-breasts:before {
     content: "\f151";
 }
-.bs-12902:before {
+.bs-12902:before, .bs-bridge-overpass:before {
     content: "\f152";
 }
-.bs-12908:before {
+.bs-12908:before, .bs-broom:before {
     content: "\f153";
 }
-.bs-12912:before {
+.bs-12912:before, .bs-brush:before {
     content: "\f154";
 }
-.bs-12916:before {
+.bs-12916:before, .bs-bubble:before {
     content: "\f155";
 }
-.bs-12917:before {
+.bs-12917:before, .bs-buffalo-bison:before {
     content: "\f156";
 }
-.bs-12919:before {
+.bs-12919:before, .bs-bulb_flower:before {
     content: "\f157";
 }
-.bs-13089:before {
+.bs-13089:before, .bs-bus-coach:before {
     content: "\f158";
 }
-.bs-13092:before {
+.bs-13092:before, .bs-bush-shrub:before {
     content: "\f159";
 }
-.bs-13093:before {
+.bs-13093:before, .bs-business-economy-commerce-trade:before {
     content: "\f15a";
 }
-.bs-13094:before {
+.bs-13094:before, .bs-but-except:before {
     content: "\f15b";
 }
-.bs-13096:before {
+.bs-13096:before, .bs-butterfly-moth:before {
     content: "\f15c";
 }
-.bs-13097:before {
+.bs-13097:before, .bs-buttocks-bottom-bum-rear-ass:before {
     content: "\f15d";
 }
-.bs-13100:before {
+.bs-13100:before, .bs-by-by_means_of-of:before {
     content: "\f15e";
 }
-.bs-13101:before {
+.bs-13101:before, .bs-cabbage:before {
     content: "\f15f";
 }
-.bs-13110:before {
+.bs-13110:before, .bs-camel:before {
     content: "\f160";
 }
-.bs-13111:before {
+.bs-13111:before, .bs-camera:before {
     content: "\f161";
 }
-.bs-13113:before {
+.bs-13113:before, .bs-camper-caravan-mobile_home:before {
     content: "\f162";
 }
-.bs-13115:before {
+.bs-13115:before, .bs-cylinder-can:before {
     content: "\f163";
 }
-.bs-13120:before {
+.bs-13120:before, .bs-cannon-gun:before {
     content: "\f164";
 }
-.bs-13121:before {
+.bs-13121:before, .bs-car-automobile-motor_vehicle:before {
     content: "\f165";
 }
-.bs-13124:before {
+.bs-13124:before, .bs-carrot-vegetable_wedge-shaped:before {
     content: "\f166";
 }
-.bs-13127:before {
+.bs-13127:before, .bs-cart-carriage:before {
     content: "\f167";
 }
-.bs-13128:before {
+.bs-13128:before, .bs-cassette-audiocassette-videocassette:before {
     content: "\f168";
 }
-.bs-13134:before {
+.bs-13134:before, .bs-cause:before {
     content: "\f169";
 }
-.bs-13138:before {
+.bs-13138:before, .bs-cavity-caries:before {
     content: "\f16a";
 }
-.bs-13139:before {
+.bs-13139:before, .bs-ceiling:before {
     content: "\f16b";
 }
-.bs-13140:before {
+.bs-13140:before, .bs-celery:before {
     content: "\f16c";
 }
-.bs-13143:before {
+.bs-13143:before, .bs-cent:before {
     content: "\f16d";
 }
-.bs-13145:before {
+.bs-13145:before, .bs-cereal:before {
     content: "\f16e";
 }
-.bs-13148:before {
+.bs-13148:before, .bs-chair-seat:before {
     content: "\f16f";
 }
-.bs-13151:before {
+.bs-13151:before, .bs-change-alteration-conversion:before {
     content: "\f170";
 }
-.bs-13156:before {
+.bs-13156:before, .bs-cheek:before {
     content: "\f171";
 }
-.bs-13157:before {
+.bs-13157:before, .bs-cheese:before {
     content: "\f172";
 }
-.bs-13158:before {
+.bs-13158:before, .bs-chemical_product:before {
     content: "\f173";
 }
-.bs-13159:before {
+.bs-13159:before, .bs-cherry-cherries:before {
     content: "\f174";
 }
-.bs-13161:before {
+.bs-13161:before, .bs-chest:before {
     content: "\f175";
 }
-.bs-13162:before {
+.bs-13162:before, .bs-chest_of_drawers-bureau-dresser:before {
     content: "\f176";
 }
-.bs-13166:before {
+.bs-13166:before, .bs-child-kid-youngster:before {
     content: "\f177";
 }
-.bs-13168:before {
+.bs-13168:before, .bs-chimney:before {
     content: "\f178";
 }
-.bs-13169:before {
+.bs-13169:before, .bs-chin:before {
     content: "\f179";
 }
-.bs-13175:before {
+.bs-13175:before, .bs-choice-selection-election:before {
     content: "\f17a";
 }
-.bs-13346:before {
+.bs-13346:before, .bs-cigarette:before {
     content: "\f17b";
 }
-.bs-13349:before {
+.bs-13349:before, .bs-citizen:before {
     content: "\f17c";
 }
-.bs-13354:before {
+.bs-13354:before, .bs-claw_animal:before {
     content: "\f17d";
 }
-.bs-13355:before {
+.bs-13355:before, .bs-claw_bird:before {
     content: "\f17e";
 }
-.bs-13365:before {
+.bs-13365:before, .bs-cloth-fabric-material-textile-net:before {
     content: "\f17f";
 }
-.bs-13366:before {
+.bs-13366:before, .bs-clothing-clothes-garment:before {
     content: "\f180";
 }
-.bs-13367:before {
+.bs-13367:before, .bs-cloud:before {
     content: "\f181";
 }
-.bs-13378:before {
+.bs-13378:before, .bs-comb:before {
     content: "\f182";
 }
-.bs-13380:before {
+.bs-13380:before, .bs-combination-connection:before {
     content: "\f183";
 }
-.bs-13382:before {
+.bs-13382:before, .bs-combine_marker:before {
     content: "\f184";
 }
-.bs-13384:before {
+.bs-13384:before, .bs-comet:before {
     content: "\f185";
 }
-.bs-13388:before {
+.bs-13388:before, .bs-commandments:before {
     content: "\f186";
 }
-.bs-13395:before {
+.bs-13395:before, .bs-conception-fertilization-fertilized_egg:before {
     content: "\f187";
 }
-.bs-13400:before {
+.bs-13400:before, .bs-cone:before {
     content: "\f188";
 }
-.bs-13401:before {
+.bs-13401:before, .bs-conscience:before {
     content: "\f189";
 }
-.bs-13403:before {
+.bs-13403:before, .bs-container-bowl-holder-pouch-basket:before {
     content: "\f18a";
 }
-.bs-13413:before {
+.bs-13413:before, .bs-corn:before {
     content: "\f18b";
 }
-.bs-13414:before {
+.bs-13414:before, .bs-corner_room:before {
     content: "\f18c";
 }
-.bs-13419:before {
+.bs-13419:before, .bs-couch-chesterfield-sofa:before {
     content: "\f18d";
 }
-.bs-13423:before {
+.bs-13423:before, .bs-country-state:before {
     content: "\f18e";
 }
-.bs-13424:before {
+.bs-13424:before, .bs-countryside-country-nature:before {
     content: "\f18f";
 }
-.bs-13425:before {
+.bs-13425:before, .bs-couple_heterosexual:before {
     content: "\f190";
 }
-.bs-13427:before {
+.bs-13427:before, .bs-family-couple:before {
     content: "\f191";
 }
-.bs-13607:before {
+.bs-13607:before, .bs-creation-nature:before {
     content: "\f192";
 }
-.bs-13613:before {
+.bs-13613:before, .bs-cross-Christianity_in_combinations:before {
     content: "\f193";
 }
-.bs-13615:before {
+.bs-13615:before, .bs-crotch:before {
     content: "\f194";
 }
-.bs-13619:before {
+.bs-13619:before, .bs-crystal:before {
     content: "\f195";
 }
-.bs-13621:before {
+.bs-13621:before, .bs-mug-cup:before {
     content: "\f196";
 }
-.bs-13622:before {
+.bs-13622:before, .bs-cupboard-closet-wardrobe:before {
     content: "\f197";
 }
-.bs-13623:before {
+.bs-13623:before, .bs-currants:before {
     content: "\f198";
 }
-.bs-13626:before {
+.bs-13626:before, .bs-curtains-drapes:before {
     content: "\f199";
 }
-.bs-13627:before {
+.bs-13627:before, .bs-curve-curved_line:before {
     content: "\f19a";
 }
-.bs-13632:before {
+.bs-13632:before, .bs-danger:before {
     content: "\f19b";
 }
-.bs-13638:before {
+.bs-13638:before, .bs-daughter:before {
     content: "\f19c";
 }
-.bs-13639:before {
+.bs-13639:before, .bs-day:before {
     content: "\f19d";
 }
-.bs-13645:before {
+.bs-13645:before, .bs-death:before {
     content: "\f19e";
 }
-.bs-13649:before {
+.bs-13649:before, .bs-decision:before {
     content: "\f19f";
 }
-.bs-13667:before {
+.bs-13667:before, .bs-development:before {
     content: "\f1a0";
 }
-.bs-13675:before {
+.bs-13675:before, .bs-different-other-difference:before {
     content: "\f1a1";
 }
-.bs-13685:before {
+.bs-13685:before, .bs-disc-disk:before {
     content: "\f1a2";
 }
-.bs-13687:before {
+.bs-13687:before, .bs-discomfort:before {
     content: "\f1a3";
 }
-.bs-13690:before {
+.bs-13690:before, .bs-dish-plate-platter:before {
     content: "\f1a4";
 }
-.bs-13857:before {
+.bs-13857:before, .bs-division:before {
     content: "\f1a5";
 }
-.bs-13863:before {
+.bs-13863:before, .bs-dollar:before {
     content: "\f1a6";
 }
-.bs-13864:before {
+.bs-13864:before, .bs-dolphin-porpoise-water_mammal_with_tail:before {
     content: "\f1a7";
 }
-.bs-13866:before {
+.bs-13866:before, .bs-door:before {
     content: "\f1a8";
 }
-.bs-13867:before {
+.bs-13867:before, .bs-dot:before {
     content: "\f1a9";
 }
-.bs-13869:before {
+.bs-13869:before, .bs-down-downward:before {
     content: "\f1aa";
 }
-.bs-13870:before {
+.bs-13870:before, .bs-downward_and_backward:before {
     content: "\f1ab";
 }
-.bs-13871:before {
+.bs-13871:before, .bs-downward_and_forward:before {
     content: "\f1ac";
 }
-.bs-13874:before {
+.bs-13874:before, .bs-drawer:before {
     content: "\f1ad";
 }
-.bs-13881:before {
+.bs-13881:before, .bs-drink-beverage:before {
     content: "\f1ae";
 }
-.bs-13885:before {
+.bs-13885:before, .bs-dromedary:before {
     content: "\f1af";
 }
-.bs-13892:before {
+.bs-13892:before, .bs-during-while:before {
     content: "\f1b0";
 }
-.bs-13894:before {
+.bs-13894:before, .bs-ear:before {
     content: "\f1b1";
 }
-.bs-13895:before {
+.bs-13895:before, .bs-ear_mold:before {
     content: "\f1b2";
 }
-.bs-13900:before {
+.bs-13900:before, .bs-earth-globe-world:before {
     content: "\f1b3";
 }
-.bs-13901:before {
+.bs-13901:before, .bs-earth-ground-land:before {
     content: "\f1b4";
 }
-.bs-13902:before {
+.bs-13902:before, .bs-east:before {
     content: "\f1b5";
 }
-.bs-13907:before {
+.bs-13907:before, .bs-edge:before {
     content: "\f1b6";
 }
-.bs-13910:before {
+.bs-13910:before, .bs-effect-result:before {
     content: "\f1b7";
 }
-.bs-13912:before {
+.bs-13912:before, .bs-egg-ovum_2:before {
     content: "\f1b8";
 }
-.bs-13914:before {
+.bs-13914:before, .bs-either:before {
     content: "\f1b9";
 }
-.bs-13916:before {
+.bs-13916:before, .bs-elbow:before {
     content: "\f1ba";
 }
-.bs-13918:before {
+.bs-13918:before, .bs-electricity:before {
     content: "\f1bb";
 }
-.bs-13922:before {
+.bs-13922:before, .bs-electromagnetic_radiation:before {
     content: "\f1bc";
 }
-.bs-13929:before {
+.bs-13929:before, .bs-embryo:before {
     content: "\f1bd";
 }
-.bs-13934:before {
+.bs-13934:before, .bs-enclosure:before {
     content: "\f1be";
 }
-.bs-13935:before {
+.bs-13935:before, .bs-end-arrival-stop:before {
     content: "\f1bf";
 }
-.bs-13936:before {
+.bs-13936:before, .bs-energy:before {
     content: "\f1c0";
 }
-.bs-13942:before {
+.bs-13942:before, .bs-environment:before {
     content: "\f1c1";
 }
-.bs-13944:before {
+.bs-13944:before, .bs-erection-erect_penis:before {
     content: "\f1c2";
 }
-.bs-13946:before {
+.bs-13946:before, .bs-etrog:before {
     content: "\f1c3";
 }
-.bs-13949:before {
+.bs-13949:before, .bs-evaluation-value:before {
     content: "\f1c4";
 }
-.bs-13950:before {
+.bs-13950:before, .bs-evening:before {
     content: "\f1c5";
 }
-.bs-14114:before {
+.bs-14114:before, .bs-event-happening-occasion:before {
     content: "\f1c6";
 }
-.bs-14116:before {
+.bs-14116:before, .bs-evergreen_tree-spruce-fir-fir_tree:before {
     content: "\f1c7";
 }
-.bs-14128:before {
+.bs-14128:before, .bs-expectation-anticipation:before {
     content: "\f1c8";
 }
-.bs-14132:before {
+.bs-14132:before, .bs-explosion-detonation-blowup:before {
     content: "\f1c9";
 }
-.bs-14133:before {
+.bs-14133:before, .bs-eye:before {
     content: "\f1ca";
 }
-.bs-14134:before {
+.bs-14134:before, .bs-eyebrow:before {
     content: "\f1cb";
 }
-.bs-14136:before {
+.bs-14136:before, .bs-eyelid_upper:before {
     content: "\f1cc";
 }
-.bs-14138:before {
+.bs-14138:before, .bs-face:before {
     content: "\f1cd";
 }
-.bs-14139:before {
+.bs-14139:before, .bs-fact:before {
     content: "\f1ce";
 }
-.bs-14144:before {
+.bs-14144:before, .bs-family_traditional:before {
     content: "\f1cf";
 }
-.bs-14145:before {
+.bs-14145:before, .bs-family_cohabiting:before {
     content: "\f1d0";
 }
-.bs-14149:before {
+.bs-14149:before, .bs-fan:before {
     content: "\f1d1";
 }
-.bs-14151:before {
+.bs-14151:before, .bs-farm:before {
     content: "\f1d2";
 }
-.bs-14157:before {
+.bs-14157:before, .bs-father-dad-daddy-papa-pa-pop:before {
     content: "\f1d3";
 }
-.bs-14164:before {
+.bs-14164:before, .bs-feeling-emotion-sensation:before {
     content: "\f1d4";
 }
-.bs-14166:before {
+.bs-14166:before, .bs-female_gender:before {
     content: "\f1d5";
 }
-.bs-14167:before {
+.bs-14167:before, .bs-fence-wall:before {
     content: "\f1d6";
 }
-.bs-14170:before {
+.bs-14170:before, .bs-fetus:before {
     content: "\f1d7";
 }
-.bs-14173:before {
+.bs-14173:before, .bs-field:before {
     content: "\f1d8";
 }
-.bs-14180:before {
+.bs-14180:before, .bs-finger:before {
     content: "\f1d9";
 }
-.bs-14183:before {
+.bs-14183:before, .bs-fire:before {
     content: "\f1da";
 }
-.bs-14185:before {
+.bs-14185:before, .bs-fireplace:before {
     content: "\f1db";
 }
-.bs-14188:before {
+.bs-14188:before, .bs-fish_animal:before {
     content: "\f1dc";
 }
-.bs-14193:before {
+.bs-14193:before, .bs-flag:before {
     content: "\f1dd";
 }
-.bs-14202:before {
+.bs-14202:before, .bs-floor:before {
     content: "\f1de";
 }
-.bs-14203:before {
+.bs-14203:before, .bs-floor_covering-linoleum:before {
     content: "\f1df";
 }
-.bs-14205:before {
+.bs-14205:before, .bs-flower:before {
     content: "\f1e0";
 }
-.bs-14206:before {
+.bs-14206:before, .bs-flower_from_bulb:before {
     content: "\f1e1";
 }
-.bs-14371:before {
+.bs-14371:before, .bs-fly-flying_insect:before {
     content: "\f1e2";
 }
-.bs-14374:before {
+.bs-14374:before, .bs-fog:before {
     content: "\f1e3";
 }
-.bs-14377:before {
+.bs-14377:before, .bs-food:before {
     content: "\f1e4";
 }
-.bs-14379:before {
+.bs-14379:before, .bs-foot:before {
     content: "\f1e5";
 }
-.bs-14381:before {
+.bs-14381:before, .bs-for_in_exchange_for-instead:before {
     content: "\f1e6";
 }
-.bs-14382:before {
+.bs-14382:before, .bs-for_the_purpose_of-in_order_to:before {
     content: "\f1e7";
 }
-.bs-14384:before {
+.bs-14384:before, .bs-forehead:before {
     content: "\f1e8";
 }
-.bs-14389:before {
+.bs-14389:before, .bs-fork:before {
     content: "\f1e9";
 }
-.bs-14390:before {
+.bs-14390:before, .bs-forward:before {
     content: "\f1ea";
 }
-.bs-14396:before {
+.bs-14396:before, .bs-freedom-liberty:before {
     content: "\f1eb";
 }
-.bs-14403:before {
+.bs-14403:before, .bs-from:before {
     content: "\f1ec";
 }
-.bs-14405:before {
+.bs-14405:before, .bs-fruit:before {
     content: "\f1ed";
 }
-.bs-14412:before {
+.bs-14412:before, .bs-fuel:before {
     content: "\f1ee";
 }
-.bs-14415:before {
+.bs-14415:before, .bs-fur-coat_animal-hair_animal:before {
     content: "\f1ef";
 }
-.bs-14417:before {
+.bs-14417:before, .bs-future:before {
     content: "\f1f0";
 }
-.bs-14420:before {
+.bs-14420:before, .bs-garage:before {
     content: "\f1f1";
 }
-.bs-14421:before {
+.bs-14421:before, .bs-garbage_can-rubbish_bin-trash_can:before {
     content: "\f1f2";
 }
-.bs-14422:before {
+.bs-14422:before, .bs-garden:before {
     content: "\f1f3";
 }
-.bs-14424:before {
+.bs-14424:before, .bs-gas:before {
     content: "\f1f4";
 }
-.bs-14427:before {
+.bs-14427:before, .bs-gathering-assembly-meeting-conference:before {
     content: "\f1f5";
 }
-.bs-14428:before {
+.bs-14428:before, .bs-gender-sex:before {
     content: "\f1f6";
 }
-.bs-14430:before {
+.bs-14430:before, .bs-generalization:before {
     content: "\f1f7";
 }
-.bs-14431:before {
+.bs-14431:before, .bs-genitals-sex_organs:before {
     content: "\f1f8";
 }
-.bs-14438:before {
+.bs-14438:before, .bs-giraffe:before {
     content: "\f1f9";
 }
-.bs-14439:before {
+.bs-14439:before, .bs-girl:before {
     content: "\f1fa";
 }
-.bs-14442:before {
+.bs-14442:before, .bs-glass-drinking_glass:before {
     content: "\f1fb";
 }
-.bs-14443:before {
+.bs-14443:before, .bs-glasses-eyeglasses:before {
     content: "\f1fc";
 }
-.bs-14450:before {
+.bs-14450:before, .bs-goal:before {
     content: "\f1fd";
 }
-.bs-14451:before {
+.bs-14451:before, .bs-God:before {
     content: "\f1fe";
 }
-.bs-14457:before {
+.bs-14457:before, .bs-goods-contents:before {
     content: "\f1ff";
 }
-.bs-14625:before {
+.bs-14625:before, .bs-grain-cereal:before {
     content: "\f200";
 }
-.bs-14626:before {
+.bs-14626:before, .bs-grandfather-granddad-grandpa:before {
     content: "\f201";
 }
-.bs-14627:before {
+.bs-14627:before, .bs-grandfather_maternal:before {
     content: "\f202";
 }
-.bs-14628:before {
+.bs-14628:before, .bs-grandfather_paternal:before {
     content: "\f203";
 }
-.bs-14629:before {
+.bs-14629:before, .bs-grandmother-grandma-granny:before {
     content: "\f204";
 }
-.bs-14630:before {
+.bs-14630:before, .bs-grandmother_maternal:before {
     content: "\f205";
 }
-.bs-14631:before {
+.bs-14631:before, .bs-grandmother_paternal:before {
     content: "\f206";
 }
-.bs-14632:before {
+.bs-14632:before, .bs-grandparent:before {
     content: "\f207";
 }
-.bs-14635:before {
+.bs-14635:before, .bs-grape-grapes:before {
     content: "\f208";
 }
-.bs-14636:before {
+.bs-14636:before, .bs-grass:before {
     content: "\f209";
 }
-.bs-14638:before {
+.bs-14638:before, .bs-grave:before {
     content: "\f20a";
 }
-.bs-14647:before {
+.bs-14647:before, .bs-group_of-much_of-many_of-quantity_of:before {
     content: "\f20b";
 }
-.bs-14655:before {
+.bs-14655:before, .bs-gun-firearm:before {
     content: "\f20c";
 }
-.bs-14659:before {
+.bs-14659:before, .bs-hail:before {
     content: "\f20d";
 }
-.bs-14660:before {
+.bs-14660:before, .bs-hair:before {
     content: "\f20e";
 }
-.bs-14661:before {
+.bs-14661:before, .bs-hair_head:before {
     content: "\f20f";
 }
-.bs-14666:before {
+.bs-14666:before, .bs-hammer-gavel-mallet:before {
     content: "\f210";
 }
-.bs-14667:before {
+.bs-14667:before, .bs-hand:before {
     content: "\f211";
 }
-.bs-14668:before {
+.bs-14668:before, .bs-handbag-shopping_bag-carrier_bag:before {
     content: "\f212";
 }
-.bs-14689:before {
+.bs-14689:before, .bs-head:before {
     content: "\f213";
 }
-.bs-14690:before {
+.bs-14690:before, .bs-health:before {
     content: "\f214";
 }
-.bs-14696:before {
+.bs-14696:before, .bs-heat:before {
     content: "\f215";
 }
-.bs-14700:before {
+.bs-14700:before, .bs-heel:before {
     content: "\f216";
 }
-.bs-14701:before {
+.bs-14701:before, .bs-helicopter:before {
     content: "\f217";
 }
-.bs-14704:before {
+.bs-14704:before, .bs-help-aid-assistance-support:before {
     content: "\f218";
 }
-.bs-14708:before {
+.bs-14708:before, .bs-here:before {
     content: "\f219";
 }
-.bs-14713:before {
+.bs-14713:before, .bs-hip:before {
     content: "\f21a";
 }
-.bs-14714:before {
+.bs-14714:before, .bs-hippopotamus:before {
     content: "\f21b";
 }
-.bs-14883:before {
+.bs-14883:before, .bs-hole:before {
     content: "\f21c";
 }
-.bs-14891:before {
+.bs-14891:before, .bs-hook-hanger:before {
     content: "\f21d";
 }
-.bs-14894:before {
+.bs-14894:before, .bs-horizon:before {
     content: "\f21e";
 }
-.bs-14895:before {
+.bs-14895:before, .bs-trumpet-horn-cornet_1:before {
     content: "\f21f";
 }
-.bs-14896:before {
+.bs-14896:before, .bs-horns:before {
     content: "\f220";
 }
-.bs-14897:before {
+.bs-14897:before, .bs-horse:before {
     content: "\f221";
 }
-.bs-14905:before {
+.bs-14905:before, .bs-house-building-dwelling-residence:before {
     content: "\f222";
 }
-.bs-14914:before {
+.bs-14914:before, .bs-husband:before {
     content: "\f223";
 }
-.bs-14919:before {
+.bs-14919:before, .bs-ice:before {
     content: "\f224";
 }
-.bs-14921:before {
+.bs-14921:before, .bs-ice_cream_cone:before {
     content: "\f225";
 }
-.bs-14924:before {
+.bs-14924:before, .bs-ice_skates:before {
     content: "\f226";
 }
-.bs-14926:before {
+.bs-14926:before, .bs-idea-thought:before {
     content: "\f227";
 }
-.bs-14932:before {
+.bs-14932:before, .bs-in-inside-interior-internal:before {
     content: "\f228";
 }
-.bs-14941:before {
+.bs-14941:before, .bs-injection-inoculation-shot:before {
     content: "\f229";
 }
-.bs-14943:before {
+.bs-14943:before, .bs-insect-bug:before {
     content: "\f22a";
 }
-.bs-14947:before {
+.bs-14947:before, .bs-intensity:before {
     content: "\f22b";
 }
-.bs-14952:before {
+.bs-14952:before, .bs-into:before {
     content: "\f22c";
 }
-.bs-14955:before {
+.bs-14955:before, .bs-iron-smoothing_iron:before {
     content: "\f22d";
 }
-.bs-14958:before {
+.bs-14958:before, .bs-island:before {
     content: "\f22e";
 }
-.bs-14960:before {
+.bs-14960:before, .bs-it-itself:before {
     content: "\f22f";
 }
-.bs-14973:before {
+.bs-14973:before, .bs-joint:before {
     content: "\f230";
 }
-.bs-15144:before {
+.bs-15144:before, .bs-key:before {
     content: "\f231";
 }
-.bs-15152:before {
+.bs-15152:before, .bs-kiss:before {
     content: "\f232";
 }
-.bs-15155:before {
+.bs-15155:before, .bs-kite:before {
     content: "\f233";
 }
-.bs-15157:before {
+.bs-15157:before, .bs-knee:before {
     content: "\f234";
 }
-.bs-15159:before {
+.bs-15159:before, .bs-knife-sword:before {
     content: "\f235";
 }
-.bs-15162:before {
+.bs-15162:before, .bs-knowledge-class_in_combinations:before {
     content: "\f236";
 }
-.bs-15166:before {
+.bs-15166:before, .bs-ladder:before {
     content: "\f237";
 }
-.bs-15172:before {
+.bs-15172:before, .bs-language:before {
     content: "\f238";
 }
-.bs-15180:before {
+.bs-15180:before, .bs-lawn-meadow:before {
     content: "\f239";
 }
-.bs-15183:before {
+.bs-15183:before, .bs-leaf:before {
     content: "\f23a";
 }
-.bs-15188:before {
+.bs-15188:before, .bs-leg:before {
     content: "\f23b";
 }
-.bs-15189:before {
+.bs-15189:before, .bs-legs_and_feet:before {
     content: "\f23c";
 }
-.bs-15190:before {
+.bs-15190:before, .bs-lemon:before {
     content: "\f23d";
 }
-.bs-15193:before {
+.bs-15193:before, .bs-length-longness:before {
     content: "\f23e";
 }
-.bs-15198:before {
+.bs-15198:before, .bs-letter-mail-post:before {
     content: "\f23f";
 }
-.bs-15200:before {
+.bs-15200:before, .bs-lettuce-leafy_vegetable:before {
     content: "\f240";
 }
-.bs-15206:before {
+.bs-15206:before, .bs-life:before {
     content: "\f241";
 }
-.bs-15208:before {
+.bs-15208:before, .bs-light:before {
     content: "\f242";
 }
-.bs-15209:before {
+.bs-15209:before, .bs-lightning:before {
     content: "\f243";
 }
-.bs-15212:before {
+.bs-15212:before, .bs-limited_time-interval-period-awhile-for_a_while:before {
     content: "\f244";
 }
-.bs-15214:before {
+.bs-15214:before, .bs-line-stripe:before {
     content: "\f245";
 }
-.bs-15218:before {
+.bs-15218:before, .bs-lips:before {
     content: "\f246";
 }
-.bs-15226:before {
+.bs-15226:before, .bs-crab-shellfish_with_claws:before {
     content: "\f247";
 }
-.bs-15399:before {
+.bs-15399:before, .bs-love-affection:before {
     content: "\f248";
 }
-.bs-15406:before {
+.bs-15406:before, .bs-machine-appliance-engine-motor:before {
     content: "\f249";
 }
-.bs-15416:before {
+.bs-15416:before, .bs-man-male:before {
     content: "\f24a";
 }
-.bs-15417:before {
+.bs-15417:before, .bs-male_genitals_man_with_penis:before {
     content: "\f24b";
 }
-.bs-15419:before {
+.bs-15419:before, .bs-mango:before {
     content: "\f24c";
 }
-.bs-15422:before {
+.bs-15422:before, .bs-maple-leaf:before {
     content: "\f24d";
 }
-.bs-15425:before {
+.bs-15425:before, .bs-marriage:before {
     content: "\f24e";
 }
-.bs-15431:before {
+.bs-15431:before, .bs-material-raw_material-stuff:before {
     content: "\f24f";
 }
-.bs-15432:before {
+.bs-15432:before, .bs-mathematics-arithmetic-math_2:before {
     content: "\f250";
 }
-.bs-15441:before {
+.bs-15441:before, .bs-meaning-sense-significance:before {
     content: "\f251";
 }
-.bs-15443:before {
+.bs-15443:before, .bs-measurement-measure:before {
     content: "\f252";
 }
-.bs-15451:before {
+.bs-15451:before, .bs-Megillah_Book_of_Esther:before {
     content: "\f253";
 }
-.bs-15452:before {
+.bs-15452:before, .bs-melon:before {
     content: "\f254";
 }
-.bs-15454:before {
+.bs-15454:before, .bs-menorah:before {
     content: "\f255";
 }
-.bs-15460:before {
+.bs-15460:before, .bs-metaphor:before {
     content: "\f256";
 }
-.bs-15463:before {
+.bs-15463:before, .bs-microwave_oven:before {
     content: "\f257";
 }
-.bs-15464:before {
+.bs-15464:before, .bs-middle-centre:before {
     content: "\f258";
 }
-.bs-15471:before {
+.bs-15471:before, .bs-mind-intellect-reason:before {
     content: "\f259";
 }
-.bs-15472:before {
+.bs-15472:before, .bs-mine:before {
     content: "\f25a";
 }
-.bs-15474:before {
+.bs-15474:before, .bs-minus-no-without:before {
     content: "\f25b";
 }
-.bs-15476:before {
+.bs-15476:before, .bs-arrow_bent:before {
     content: "\f25c";
 }
-.bs-15484:before {
+.bs-15484:before, .bs-money-cash:before {
     content: "\f25d";
 }
-.bs-15649:before {
+.bs-15649:before, .bs-month:before {
     content: "\f25e";
 }
-.bs-15651:before {
+.bs-15651:before, .bs-moon:before {
     content: "\f25f";
 }
-.bs-15656:before {
+.bs-15656:before, .bs-morning_early:before {
     content: "\f260";
 }
-.bs-15662:before {
+.bs-15662:before, .bs-mother-mom-mommy-mum:before {
     content: "\f261";
 }
-.bs-15663:before {
+.bs-15663:before, .bs-mountain:before {
     content: "\f262";
 }
-.bs-15666:before {
+.bs-15666:before, .bs-mouth:before {
     content: "\f263";
 }
-.bs-15672:before {
+.bs-15672:before, .bs-mud-clay:before {
     content: "\f264";
 }
-.bs-15673:before {
+.bs-15673:before, .bs-multiplication:before {
     content: "\f265";
 }
-.bs-15678:before {
+.bs-15678:before, .bs-mushroom:before {
     content: "\f266";
 }
-.bs-15682:before {
+.bs-15682:before, .bs-musical_note-music_in_combinations:before {
     content: "\f267";
 }
-.bs-15689:before {
+.bs-15689:before, .bs-nail:before {
     content: "\f268";
 }
-.bs-15691:before {
+.bs-15691:before, .bs-name-label-term-title:before {
     content: "\f269";
 }
-.bs-15699:before {
+.bs-15699:before, .bs-neck_head:before {
     content: "\f26a";
 }
-.bs-15700:before {
+.bs-15700:before, .bs-neck_body:before {
     content: "\f26b";
 }
-.bs-15701:before {
+.bs-15701:before, .bs-need_needy_person:before {
     content: "\f26c";
 }
-.bs-15703:before {
+.bs-15703:before, .bs-needle:before {
     content: "\f26d";
 }
-.bs-15712:before {
+.bs-15712:before, .bs-news:before {
     content: "\f26e";
 }
-.bs-15719:before {
+.bs-15719:before, .bs-night:before {
     content: "\f26f";
 }
-.bs-15726:before {
+.bs-15726:before, .bs-nonsense:before {
     content: "\f270";
 }
-.bs-15730:before {
+.bs-15730:before, .bs-north:before {
     content: "\f271";
 }
-.bs-15732:before {
+.bs-15732:before, .bs-nose:before {
     content: "\f272";
 }
-.bs-15736:before {
+.bs-15736:before, .bs-now:before {
     content: "\f273";
 }
-.bs-15737:before {
+.bs-15737:before, .bs-nowhere-no_place:before {
     content: "\f274";
 }
-.bs-15740:before {
+.bs-15740:before, .bs-nuclear_radiation-radioactivity:before {
     content: "\f275";
 }
-.bs-15741:before {
+.bs-15741:before, .bs-nucleus_atom:before {
     content: "\f276";
 }
-.bs-15742:before {
+.bs-15742:before, .bs-number:before {
     content: "\f277";
 }
-.bs-15912:before {
+.bs-15912:before, .bs-offspring-child:before {
     content: "\f278";
 }
-.bs-15914:before {
+.bs-15914:before, .bs-oil-lubricant:before {
     content: "\f279";
 }
-.bs-15917:before {
+.bs-15917:before, .bs-olive:before {
     content: "\f27a";
 }
-.bs-15918:before {
+.bs-15918:before, .bs-on:before {
     content: "\f27b";
 }
-.bs-15920:before {
+.bs-15920:before, .bs-bulb_plant:before {
     content: "\f27c";
 }
-.bs-15923:before {
+.bs-15923:before, .bs-opening:before {
     content: "\f27d";
 }
-.bs-15925:before {
+.bs-15925:before, .bs-opinion:before {
     content: "\f27e";
 }
-.bs-15927:before {
+.bs-15927:before, .bs-opposite_meaning-opposite_of-opposite:before {
     content: "\f27f";
 }
-.bs-15928:before {
+.bs-15928:before, .bs-opposition-counter_purpose:before {
     content: "\f280";
 }
-.bs-15929:before {
+.bs-15929:before, .bs-or:before {
     content: "\f281";
 }
-.bs-15933:before {
+.bs-15933:before, .bs-orange-citrus_fruit:before {
     content: "\f282";
 }
-.bs-15942:before {
+.bs-15942:before, .bs-out-exterior-external-outside:before {
     content: "\f283";
 }
-.bs-15943:before {
+.bs-15943:before, .bs-out_of-exit_forward:before {
     content: "\f284";
 }
-.bs-15944:before {
+.bs-15944:before, .bs-out_of-exit_downward:before {
     content: "\f285";
 }
-.bs-15948:before {
+.bs-15948:before, .bs-over-above-superior:before {
     content: "\f286";
 }
-.bs-15952:before {
+.bs-15952:before, .bs-oyster-clam-mussel:before {
     content: "\f287";
 }
-.bs-15953:before {
+.bs-15953:before, .bs-pail-bucket:before {
     content: "\f288";
 }
-.bs-15960:before {
+.bs-15960:before, .bs-palm:before {
     content: "\f289";
 }
-.bs-15962:before {
+.bs-15962:before, .bs-paper-card-page:before {
     content: "\f28a";
 }
-.bs-15964:before {
+.bs-15964:before, .bs-parallel:before {
     content: "\f28b";
 }
-.bs-15966:before {
+.bs-15966:before, .bs-parcel-package:before {
     content: "\f28c";
 }
-.bs-15968:before {
+.bs-15968:before, .bs-parent:before {
     content: "\f28d";
 }
-.bs-15969:before {
+.bs-15969:before, .bs-park:before {
     content: "\f28e";
 }
-.bs-15972:before {
+.bs-15972:before, .bs-part-bit-piece-portion-part_of:before {
     content: "\f28f";
 }
-.bs-15975:before {
+.bs-15975:before, .bs-past:before {
     content: "\f290";
 }
-.bs-15978:before {
+.bs-15978:before, .bs-paw:before {
     content: "\f291";
 }
-.bs-15981:before {
+.bs-15981:before, .bs-peace-peace_of_mind-serenity:before {
     content: "\f292";
 }
-.bs-15983:before {
+.bs-15983:before, .bs-peach-nectarine:before {
     content: "\f293";
 }
-.bs-15986:before {
+.bs-15986:before, .bs-pear:before {
     content: "\f294";
 }
-.bs-15987:before {
+.bs-15987:before, .bs-peas:before {
     content: "\f295";
 }
-.bs-15991:before {
+.bs-15991:before, .bs-pen-pencil:before {
     content: "\f296";
 }
-.bs-15994:before {
+.bs-15994:before, .bs-penis:before {
     content: "\f297";
 }
-.bs-15995:before {
+.bs-15995:before, .bs-pepper_vegetable:before {
     content: "\f298";
 }
-.bs-15998:before {
+.bs-15998:before, .bs-perpendicular:before {
     content: "\f299";
 }
-.bs-16161:before {
+.bs-16161:before, .bs-person-human_being-individual-human:before {
     content: "\f29a";
 }
-.bs-16162:before {
+.bs-16162:before, .bs-kneeling_kneeling_person:before {
     content: "\f29b";
 }
-.bs-16163:before {
+.bs-16163:before, .bs-reclining-lying_person_lying_down:before {
     content: "\f29c";
 }
-.bs-16164:before {
+.bs-16164:before, .bs-illness-disease-sickness_sick_person:before {
     content: "\f29d";
 }
-.bs-16165:before {
+.bs-16165:before, .bs-seat-sitting_sitting_person:before {
     content: "\f29e";
 }
-.bs-16166:before {
+.bs-16166:before, .bs-standing_standing_person:before {
     content: "\f29f";
 }
-.bs-16167:before {
+.bs-16167:before, .bs-weakness_weak_person:before {
     content: "\f2a0";
 }
-.bs-16175:before {
+.bs-16175:before, .bs-pig:before {
     content: "\f2a1";
 }
-.bs-16177:before {
+.bs-16177:before, .bs-pillow-cushion:before {
     content: "\f2a2";
 }
-.bs-16180:before {
+.bs-16180:before, .bs-pimple-blemish:before {
     content: "\f2a3";
 }
-.bs-16181:before {
+.bs-16181:before, .bs-pin:before {
     content: "\f2a4";
 }
-.bs-16182:before {
+.bs-16182:before, .bs-pineapple:before {
     content: "\f2a5";
 }
-.bs-16186:before {
+.bs-16186:before, .bs-pipe-smoking_pipe:before {
     content: "\f2a6";
 }
-.bs-16187:before {
+.bs-16187:before, .bs-pipe-hose-tube_1:before {
     content: "\f2a7";
 }
-.bs-16188:before {
+.bs-16188:before, .bs-pit-stone:before {
     content: "\f2a8";
 }
-.bs-16190:before {
+.bs-16190:before, .bs-pita:before {
     content: "\f2a9";
 }
-.bs-16191:before {
+.bs-16191:before, .bs-pitcher-jug-kettle-pot:before {
     content: "\f2aa";
 }
-.bs-16193:before {
+.bs-16193:before, .bs-place-area-location-space:before {
     content: "\f2ab";
 }
-.bs-16194:before {
+.bs-16194:before, .bs-plan-design-method-system:before {
     content: "\f2ac";
 }
-.bs-16196:before {
+.bs-16196:before, .bs-plant:before {
     content: "\f2ad";
 }
-.bs-16205:before {
+.bs-16205:before, .bs-pliers-tongs-tweezers-pincers_pair_of:before {
     content: "\f2ae";
 }
-.bs-16206:before {
+.bs-16206:before, .bs-plough:before {
     content: "\f2af";
 }
-.bs-16208:before {
+.bs-16208:before, .bs-plum-drupe:before {
     content: "\f2b0";
 }
-.bs-16212:before {
+.bs-16212:before, .bs-point-tip-peak:before {
     content: "\f2b1";
 }
-.bs-16219:before {
+.bs-16219:before, .bs-pool:before {
     content: "\f2b2";
 }
-.bs-16224:before {
+.bs-16224:before, .bs-position:before {
     content: "\f2b3";
 }
-.bs-16227:before {
+.bs-16227:before, .bs-postcard:before {
     content: "\f2b4";
 }
-.bs-16229:before {
+.bs-16229:before, .bs-pot-pan:before {
     content: "\f2b5";
 }
-.bs-16232:before {
+.bs-16232:before, .bs-pound_sterling:before {
     content: "\f2b6";
 }
-.bs-16233:before {
+.bs-16233:before, .bs-powder-dust:before {
     content: "\f2b7";
 }
-.bs-16234:before {
+.bs-16234:before, .bs-power_physics:before {
     content: "\f2b8";
 }
-.bs-16246:before {
+.bs-16246:before, .bs-present:before {
     content: "\f2b9";
 }
-.bs-16254:before {
+.bs-16254:before, .bs-projector:before {
     content: "\f2ba";
 }
-.bs-16420:before {
+.bs-16420:before, .bs-protection-shelter:before {
     content: "\f2bb";
 }
-.bs-16426:before {
+.bs-16426:before, .bs-pubic_hair:before {
     content: "\f2bc";
 }
-.bs-16430:before {
+.bs-16430:before, .bs-public_room:before {
     content: "\f2bd";
 }
-.bs-16437:before {
+.bs-16437:before, .bs-purpose:before {
     content: "\f2be";
 }
-.bs-16443:before {
+.bs-16443:before, .bs-pyramid:before {
     content: "\f2bf";
 }
-.bs-16445:before {
+.bs-16445:before, .bs-question:before {
     content: "\f2c0";
 }
-.bs-16451:before {
+.bs-16451:before, .bs-race-competition-contest:before {
     content: "\f2c1";
 }
-.bs-16452:before {
+.bs-16452:before, .bs-racket-racquet:before {
     content: "\f2c2";
 }
-.bs-16455:before {
+.bs-16455:before, .bs-rain:before {
     content: "\f2c3";
 }
-.bs-16463:before {
+.bs-16463:before, .bs-raspberry-blackberry-compound_berry:before {
     content: "\f2c4";
 }
-.bs-16479:before {
+.bs-16479:before, .bs-less_than_relation:before {
     content: "\f2c5";
 }
-.bs-16480:before {
+.bs-16480:before, .bs-greater_than_relation:before {
     content: "\f2c6";
 }
-.bs-16481:before {
+.bs-16481:before, .bs-relative-relation:before {
     content: "\f2c7";
 }
-.bs-16482:before {
+.bs-16482:before, .bs-who-that-which-relative:before {
     content: "\f2c8";
 }
-.bs-16495:before {
+.bs-16495:before, .bs-rest-comfort:before {
     content: "\f2c9";
 }
-.bs-16499:before {
+.bs-16499:before, .bs-return:before {
     content: "\f2ca";
 }
-.bs-16501:before {
+.bs-16501:before, .bs-rhinoceros:before {
     content: "\f2cb";
 }
-.bs-16505:before {
+.bs-16505:before, .bs-rice:before {
     content: "\f2cc";
 }
-.bs-16674:before {
+.bs-16674:before, .bs-angle_right-right_angle:before {
     content: "\f2cd";
 }
-.bs-16675:before {
+.bs-16675:before, .bs-ring:before {
     content: "\f2ce";
 }
-.bs-16677:before {
+.bs-16677:before, .bs-river-stream-current:before {
     content: "\f2cf";
 }
-.bs-16678:before {
+.bs-16678:before, .bs-road_1:before {
     content: "\f2d0";
 }
-.bs-16683:before {
+.bs-16683:before, .bs-roll-bun:before {
     content: "\f2d1";
 }
-.bs-16685:before {
+.bs-16685:before, .bs-roller_skates:before {
     content: "\f2d2";
 }
-.bs-16687:before {
+.bs-16687:before, .bs-room:before {
     content: "\f2d3";
 }
-.bs-16688:before {
+.bs-16688:before, .bs-roots-rootage-root_system:before {
     content: "\f2d4";
 }
-.bs-16701:before {
+.bs-16701:before, .bs-sack-bag:before {
     content: "\f2d5";
 }
-.bs-16709:before {
+.bs-16709:before, .bs-salad:before {
     content: "\f2d6";
 }
-.bs-16713:before {
+.bs-16713:before, .bs-same-equal-equality:before {
     content: "\f2d7";
 }
-.bs-16727:before {
+.bs-16727:before, .bs-saw:before {
     content: "\f2d8";
 }
-.bs-16735:before {
+.bs-16735:before, .bs-science-body_of_learning:before {
     content: "\f2d9";
 }
-.bs-16736:before {
+.bs-16736:before, .bs-scissors:before {
     content: "\f2da";
 }
-.bs-16739:before {
+.bs-16739:before, .bs-screw:before {
     content: "\f2db";
 }
-.bs-16745:before {
+.bs-16745:before, .bs-secret:before {
     content: "\f2dc";
 }
-.bs-16749:before {
+.bs-16749:before, .bs-seed:before {
     content: "\f2dd";
 }
-.bs-16751:before {
+.bs-16751:before, .bs-seesaw-teeter-totter-teeter_board:before {
     content: "\f2de";
 }
-.bs-16939:before {
+.bs-16939:before, .bs-shamrock-clover:before {
     content: "\f2df";
 }
-.bs-16953:before {
+.bs-16953:before, .bs-shelf:before {
     content: "\f2e0";
 }
-.bs-16954:before {
+.bs-16954:before, .bs-shell-crust:before {
     content: "\f2e1";
 }
-.bs-16964:before {
+.bs-16964:before, .bs-shoulder:before {
     content: "\f2e2";
 }
-.bs-16966:before {
+.bs-16966:before, .bs-shovel-spade:before {
     content: "\f2e3";
 }
-.bs-16968:before {
+.bs-16968:before, .bs-shower:before {
     content: "\f2e4";
 }
-.bs-16974:before {
+.bs-16974:before, .bs-side_body:before {
     content: "\f2e5";
 }
-.bs-16975:before {
+.bs-16975:before, .bs-side_enclosure:before {
     content: "\f2e6";
 }
-.bs-16976:before {
+.bs-16976:before, .bs-sieve-colander-strainer:before {
     content: "\f2e7";
 }
-.bs-16992:before {
+.bs-16992:before, .bs-bath-washing:before {
     content: "\f2e8";
 }
-.bs-16997:before {
+.bs-16997:before, .bs-skateboard:before {
     content: "\f2e9";
 }
-.bs-17006:before {
+.bs-17006:before, .bs-sky:before {
     content: "\f2ea";
 }
-.bs-17007:before {
+.bs-17007:before, .bs-sled-sledge-sleigh-toboggan:before {
     content: "\f2eb";
 }
-.bs-17008:before {
+.bs-17008:before, .bs-sleep:before {
     content: "\f2ec";
 }
-.bs-17017:before {
+.bs-17017:before, .bs-smell-odour:before {
     content: "\f2ed";
 }
-.bs-17188:before {
+.bs-17188:before, .bs-snail:before {
     content: "\f2ee";
 }
-.bs-17189:before {
+.bs-17189:before, .bs-snake:before {
     content: "\f2ef";
 }
-.bs-17190:before {
+.bs-17190:before, .bs-water_snake:before {
     content: "\f2f0";
 }
-.bs-17192:before {
+.bs-17192:before, .bs-snow:before {
     content: "\f2f1";
 }
-.bs-17195:before {
+.bs-17195:before, .bs-snowflake:before {
     content: "\f2f2";
 }
-.bs-17205:before {
+.bs-17205:before, .bs-solid_thing:before {
     content: "\f2f3";
 }
-.bs-17209:before {
+.bs-17209:before, .bs-son:before {
     content: "\f2f4";
 }
-.bs-17216:before {
+.bs-17216:before, .bs-sound:before {
     content: "\f2f5";
 }
-.bs-17218:before {
+.bs-17218:before, .bs-soup-broth:before {
     content: "\f2f6";
 }
-.bs-17219:before {
+.bs-17219:before, .bs-south:before {
     content: "\f2f7";
 }
-.bs-17221:before {
+.bs-17221:before, .bs-space-dimension:before {
     content: "\f2f8";
 }
-.bs-17226:before {
+.bs-17226:before, .bs-sperm:before {
     content: "\f2f9";
 }
-.bs-17229:before {
+.bs-17229:before, .bs-spider:before {
     content: "\f2fa";
 }
-.bs-17233:before {
+.bs-17233:before, .bs-spoon:before {
     content: "\f2fb";
 }
-.bs-17235:before {
+.bs-17235:before, .bs-sport_stick:before {
     content: "\f2fc";
 }
-.bs-17237:before {
+.bs-17237:before, .bs-spouse-cohabitant-partner:before {
     content: "\f2fd";
 }
-.bs-17238:before {
+.bs-17238:before, .bs-spread-paste:before {
     content: "\f2fe";
 }
-.bs-17244:before {
+.bs-17244:before, .bs-squash-pumpkin:before {
     content: "\f2ff";
 }
-.bs-17247:before {
+.bs-17247:before, .bs-stairs-steps:before {
     content: "\f300";
 }
-.bs-17248:before {
+.bs-17248:before, .bs-stamp:before {
     content: "\f301";
 }
-.bs-17251:before {
+.bs-17251:before, .bs-star_of_David:before {
     content: "\f302";
 }
-.bs-17252:before {
+.bs-17252:before, .bs-star:before {
     content: "\f303";
 }
-.bs-17255:before {
+.bs-17255:before, .bs-steam:before {
     content: "\f304";
 }
-.bs-17257:before {
+.bs-17257:before, .bs-steam_bath:before {
     content: "\f305";
 }
-.bs-17259:before {
+.bs-17259:before, .bs-stem-stalk:before {
     content: "\f306";
 }
-.bs-17260:before {
+.bs-17260:before, .bs-stepfather:before {
     content: "\f307";
 }
-.bs-17261:before {
+.bs-17261:before, .bs-stepmother:before {
     content: "\f308";
 }
-.bs-17265:before {
+.bs-17265:before, .bs-stomach-abdomen-belly:before {
     content: "\f309";
 }
-.bs-17267:before {
+.bs-17267:before, .bs-stone-rock:before {
     content: "\f30a";
 }
-.bs-17273:before {
+.bs-17273:before, .bs-stove-furnace-heater-oven:before {
     content: "\f30b";
 }
-.bs-17278:before {
+.bs-17278:before, .bs-strawberry:before {
     content: "\f30c";
 }
-.bs-17441:before {
+.bs-17441:before, .bs-street:before {
     content: "\f30d";
 }
-.bs-17445:before {
+.bs-17445:before, .bs-structure-construction:before {
     content: "\f30e";
 }
-.bs-17449:before {
+.bs-17449:before, .bs-subtraction-loss:before {
     content: "\f30f";
 }
-.bs-17451:before {
+.bs-17451:before, .bs-success:before {
     content: "\f310";
 }
-.bs-17462:before {
+.bs-17462:before, .bs-sun:before {
     content: "\f311";
 }
-.bs-17472:before {
+.bs-17472:before, .bs-swamp-bog-marsh:before {
     content: "\f312";
 }
-.bs-17473:before {
+.bs-17473:before, .bs-swan:before {
     content: "\f313";
 }
-.bs-17493:before {
+.bs-17493:before, .bs-table:before {
     content: "\f314";
 }
-.bs-17496:before {
+.bs-17496:before, .bs-tail:before {
     content: "\f315";
 }
-.bs-17504:before {
+.bs-17504:before, .bs-tank:before {
     content: "\f316";
 }
-.bs-17506:before {
+.bs-17506:before, .bs-taste:before {
     content: "\f317";
 }
-.bs-17516:before {
+.bs-17516:before, .bs-teenager-adolescent-youth:before {
     content: "\f318";
 }
-.bs-17517:before {
+.bs-17517:before, .bs-teeth:before {
     content: "\f319";
 }
-.bs-17520:before {
+.bs-17520:before, .bs-temperature:before {
     content: "\f31a";
 }
-.bs-17697:before {
+.bs-17697:before, .bs-that_there:before {
     content: "\f31b";
 }
-.bs-17700:before {
+.bs-17700:before, .bs-the:before {
     content: "\f31c";
 }
-.bs-17705:before {
+.bs-17705:before, .bs-then-so-later:before {
     content: "\f31d";
 }
-.bs-17707:before {
+.bs-17707:before, .bs-there:before {
     content: "\f31e";
 }
-.bs-17708:before {
+.bs-17708:before, .bs-therefore-so-so_that:before {
     content: "\f31f";
 }
-.bs-17717:before {
+.bs-17717:before, .bs-thing-object:before {
     content: "\f320";
 }
-.bs-17720:before {
+.bs-17720:before, .bs-this:before {
     content: "\f321";
 }
-.bs-17724:before {
+.bs-17724:before, .bs-through:before {
     content: "\f322";
 }
-.bs-17726:before {
+.bs-17726:before, .bs-thumb:before {
     content: "\f323";
 }
-.bs-17732:before {
+.bs-17732:before, .bs-time:before {
     content: "\f324";
 }
-.bs-17734:before {
+.bs-17734:before, .bs-tire-tyre:before {
     content: "\f325";
 }
-.bs-17739:before {
+.bs-17739:before, .bs-to-toward-towards:before {
     content: "\f326";
 }
-.bs-17745:before {
+.bs-17745:before, .bs-toe:before {
     content: "\f327";
 }
-.bs-17747:before {
+.bs-17747:before, .bs-toilet:before {
     content: "\f328";
 }
-.bs-17755:before {
+.bs-17755:before, .bs-tool-instrument:before {
     content: "\f329";
 }
-.bs-17758:before {
+.bs-17758:before, .bs-top:before {
     content: "\f32a";
 }
-.bs-17759:before {
+.bs-17759:before, .bs-dreidel_top:before {
     content: "\f32b";
 }
-.bs-17760:before {
+.bs-17760:before, .bs-Torah:before {
     content: "\f32c";
 }
-.bs-17765:before {
+.bs-17765:before, .bs-tractor:before {
     content: "\f32d";
 }
-.bs-17773:before {
+.bs-17773:before, .bs-tray:before {
     content: "\f32e";
 }
-.bs-17775:before {
+.bs-17775:before, .bs-tree:before {
     content: "\f32f";
 }
-.bs-17779:before {
+.bs-17779:before, .bs-trip-journey-travel-voyage:before {
     content: "\f330";
 }
-.bs-17781:before {
+.bs-17781:before, .bs-truck-lorry:before {
     content: "\f331";
 }
-.bs-17783:before {
+.bs-17783:before, .bs-trunk-tree_trunk-bole:before {
     content: "\f332";
 }
-.bs-17786:before {
+.bs-17786:before, .bs-truth:before {
     content: "\f333";
 }
-.bs-17958:before {
+.bs-17958:before, .bs-turnip-rutabaga-vegetable_large-leafed:before {
     content: "\f334";
 }
-.bs-17959:before {
+.bs-17959:before, .bs-turtle-tortoise:before {
     content: "\f335";
 }
-.bs-17961:before {
+.bs-17961:before, .bs-type-kind-sort-category:before {
     content: "\f336";
 }
-.bs-17966:before {
+.bs-17966:before, .bs-umbrella:before {
     content: "\f337";
 }
-.bs-17967:before {
+.bs-17967:before, .bs-uncle:before {
     content: "\f338";
 }
-.bs-17969:before {
+.bs-17969:before, .bs-under-below-inferior:before {
     content: "\f339";
 }
-.bs-17982:before {
+.bs-17982:before, .bs-until-till-to:before {
     content: "\f33a";
 }
-.bs-17983:before {
+.bs-17983:before, .bs-up-upward:before {
     content: "\f33b";
 }
-.bs-17986:before {
+.bs-17986:before, .bs-upward_and_backward:before {
     content: "\f33c";
 }
-.bs-17987:before {
+.bs-17987:before, .bs-upward_and_forward:before {
     content: "\f33d";
 }
-.bs-17994:before {
+.bs-17994:before, .bs-uterus-womb:before {
     content: "\f33e";
 }
-.bs-17996:before {
+.bs-17996:before, .bs-vagina:before {
     content: "\f33f";
 }
-.bs-17999:before {
+.bs-17999:before, .bs-valley:before {
     content: "\f340";
 }
-.bs-18004:before {
+.bs-18004:before, .bs-vegetable_above_ground:before {
     content: "\f341";
 }
-.bs-18005:before {
+.bs-18005:before, .bs-vegetable_below_ground:before {
     content: "\f342";
 }
-.bs-18006:before {
+.bs-18006:before, .bs-onion-vegetable_bulb:before {
     content: "\f343";
 }
-.bs-18007:before {
+.bs-18007:before, .bs-vegetable_oval-shaped:before {
     content: "\f344";
 }
-.bs-18010:before {
+.bs-18010:before, .bs-vehicle-carriage-railway_car:before {
     content: "\f345";
 }
-.bs-18028:before {
+.bs-18028:before, .bs-wagon-cart-truck:before {
     content: "\f346";
 }
-.bs-18029:before {
+.bs-18029:before, .bs-waist:before {
     content: "\f347";
 }
-.bs-18033:before {
+.bs-18033:before, .bs-wall:before {
     content: "\f348";
 }
-.bs-18034:before {
+.bs-18034:before, .bs-wand:before {
     content: "\f349";
 }
-.bs-18036:before {
+.bs-18036:before, .bs-war:before {
     content: "\f34a";
 }
-.bs-18043:before {
+.bs-18043:before, .bs-waste-garbage-rubbish-trash:before {
     content: "\f34b";
 }
-.bs-18209:before {
+.bs-18209:before, .bs-water-fluid-liquid:before {
     content: "\f34c";
 }
-.bs-18214:before {
+.bs-18214:before, .bs-weather:before {
     content: "\f34d";
 }
-.bs-18221:before {
+.bs-18221:before, .bs-weight:before {
     content: "\f34e";
 }
-.bs-18224:before {
+.bs-18224:before, .bs-west:before {
     content: "\f34f";
 }
-.bs-18229:before {
+.bs-18229:before, .bs-what-question_mark_small:before {
     content: "\f350";
 }
-.bs-18232:before {
+.bs-18232:before, .bs-wheel:before {
     content: "\f351";
 }
-.bs-18233:before {
+.bs-18233:before, .bs-wheelchair:before {
     content: "\f352";
 }
-.bs-18236:before {
+.bs-18236:before, .bs-where:before {
     content: "\f353";
 }
-.bs-18237:before {
+.bs-18237:before, .bs-where-question:before {
     content: "\f354";
 }
-.bs-18251:before {
+.bs-18251:before, .bs-wife:before {
     content: "\f355";
 }
-.bs-18255:before {
+.bs-18255:before, .bs-wind:before {
     content: "\f356";
 }
-.bs-18256:before {
+.bs-18256:before, .bs-window:before {
     content: "\f357";
 }
-.bs-18257:before {
+.bs-18257:before, .bs-barred_window:before {
     content: "\f358";
 }
-.bs-18259:before {
+.bs-18259:before, .bs-wings:before {
     content: "\f359";
 }
-.bs-18267:before {
+.bs-18267:before, .bs-with:before {
     content: "\f35a";
 }
-.bs-18269:before {
+.bs-18269:before, .bs-woman-female:before {
     content: "\f35b";
 }
-.bs-18278:before {
+.bs-18278:before, .bs-world:before {
     content: "\f35c";
 }
-.bs-18279:before {
+.bs-18279:before, .bs-worm:before {
     content: "\f35d";
 }
-.bs-18284:before {
+.bs-18284:before, .bs-wrist:before {
     content: "\f35e";
 }
-.bs-18287:before {
+.bs-18287:before, .bs-yard:before {
     content: "\f35f";
 }
-.bs-18289:before {
+.bs-18289:before, .bs-year:before {
     content: "\f360";
 }
-.bs-18293:before {
+.bs-18293:before, .bs-yen:before {
     content: "\f361";
 }
-.bs-20517:before {
+.bs-20517:before, .bs-muscle:before {
     content: "\f362";
 }
-.bs-20518:before {
+.bs-20518:before, .bs-sport:before {
     content: "\f363";
 }
-.bs-20519:before {
+.bs-20519:before, .bs-sail:before {
     content: "\f364";
 }
-.bs-20520:before {
+.bs-20520:before, .bs-sailboat-sailing_boat-yacht:before {
     content: "\f365";
 }
-.bs-20522:before {
+.bs-20522:before, .bs-sauce-gravy-relish-dressing:before {
     content: "\f366";
 }
-.bs-20524:before {
+.bs-20524:before, .bs-up_and_down:before {
     content: "\f367";
 }
-.bs-20528:before {
+.bs-20528:before, .bs-can-tin-jar:before {
     content: "\f368";
 }
-.bs-20561:before {
+.bs-20561:before, .bs-religion_God_based:before {
     content: "\f369";
 }
-.bs-20563:before {
+.bs-20563:before, .bs-religion-naturalism:before {
     content: "\f36a";
 }
-.bs-20564:before {
+.bs-20564:before, .bs-belief_supernatural:before {
     content: "\f36b";
 }
-.bs-20568:before {
+.bs-20568:before, .bs-devil_1:before {
     content: "\f36c";
 }
-.bs-20571:before {
+.bs-20571:before, .bs-angel_1:before {
     content: "\f36d";
 }
-.bs-20572:before {
+.bs-20572:before, .bs-family:before {
     content: "\f36e";
 }
-.bs-20599:before {
+.bs-20599:before, .bs-board:before {
     content: "\f36f";
 }
-.bs-20769:before {
+.bs-20769:before, .bs-bun_food:before {
     content: "\f370";
 }
-.bs-21036:before {
+.bs-21036:before, .bs-supernatural-noun:before {
     content: "\f371";
 }
-.bs-21040:before {
+.bs-21040:before, .bs-grace-grace_of_God:before {
     content: "\f372";
 }
-.bs-21044:before {
+.bs-21044:before, .bs-spirit:before {
     content: "\f373";
 }
-.bs-21054:before {
+.bs-21054:before, .bs-leader-director-guide_1:before {
     content: "\f374";
 }
-.bs-21061:before {
+.bs-21061:before, .bs-horns-antlers:before {
     content: "\f375";
 }
-.bs-21082:before {
+.bs-21082:before, .bs-holiness:before {
     content: "\f376";
 }
-.bs-21090:before {
+.bs-21090:before, .bs-single_parent:before {
     content: "\f377";
 }
-.bs-21091:before {
+.bs-21091:before, .bs-single_mother:before {
     content: "\f378";
 }
-.bs-21092:before {
+.bs-21092:before, .bs-single_father:before {
     content: "\f379";
 }
-.bs-21093:before {
+.bs-21093:before, .bs-single_parent_family:before {
     content: "\f37a";
 }
-.bs-21098:before {
+.bs-21098:before, .bs-insight:before {
     content: "\f37b";
 }
-.bs-21116:before {
+.bs-21116:before, .bs-coffin:before {
     content: "\f37c";
 }
-.bs-21282:before {
+.bs-21282:before, .bs-vase-urn-trophy_cup:before {
     content: "\f37d";
 }
-.bs-21297:before {
+.bs-21297:before, .bs-mystery-unknown:before {
     content: "\f37e";
 }
-.bs-21363:before {
+.bs-21363:before, .bs-goblet-wineglass:before {
     content: "\f37f";
 }
-.bs-21540:before {
+.bs-21540:before, .bs-cell:before {
     content: "\f380";
 }
-.bs-21541:before {
+.bs-21541:before, .bs-Euro:before {
     content: "\f381";
 }
-.bs-21589:before {
+.bs-21589:before, .bs-therapy:before {
     content: "\f382";
 }
-.bs-21607:before {
+.bs-21607:before, .bs-view_of_life:before {
     content: "\f383";
 }
-.bs-21623:before {
+.bs-21623:before, .bs-cap:before {
     content: "\f384";
 }
-.bs-21624:before {
+.bs-21624:before, .bs-bliss-name:before {
     content: "\f385";
 }
-.bs-21807:before {
+.bs-21807:before, .bs-rugby_ball-football_NA:before {
     content: "\f386";
 }
-.bs-21809:before {
+.bs-21809:before, .bs-wicket:before {
     content: "\f387";
 }
-.bs-21813:before {
+.bs-21813:before, .bs-prone_board-scooter-board:before {
     content: "\f388";
 }
-.bs-21820:before {
+.bs-21820:before, .bs-stander_wheeled:before {
     content: "\f389";
 }
-.bs-21841:before {
+.bs-21841:before, .bs-relay:before {
     content: "\f38a";
 }
-.bs-21849:before {
+.bs-21849:before, .bs-chain:before {
     content: "\f38b";
 }
-.bs-21855:before {
+.bs-21855:before, .bs-bow_and_arrow:before {
     content: "\f38c";
 }
-.bs-21880:before {
+.bs-21880:before, .bs-wave:before {
     content: "\f38d";
 }
-.bs-22059:before {
+.bs-22059:before, .bs-mast:before {
     content: "\f38e";
 }
-.bs-22060:before {
+.bs-22060:before, .bs-boom:before {
     content: "\f38f";
 }
-.bs-22061:before {
+.bs-22061:before, .bs-deck:before {
     content: "\f390";
 }
-.bs-22062:before {
+.bs-22062:before, .bs-bow-fore:before {
     content: "\f391";
 }
-.bs-22063:before {
+.bs-22063:before, .bs-stern:before {
     content: "\f392";
 }
-.bs-22064:before {
+.bs-22064:before, .bs-keel:before {
     content: "\f393";
 }
-.bs-22065:before {
+.bs-22065:before, .bs-hull-body:before {
     content: "\f394";
 }
-.bs-22066:before {
+.bs-22066:before, .bs-rudder:before {
     content: "\f395";
 }
-.bs-22067:before {
+.bs-22067:before, .bs-paddle-oar:before {
     content: "\f396";
 }
-.bs-22068:before {
+.bs-22068:before, .bs-paddle_two_blades:before {
     content: "\f397";
 }
-.bs-22069:before {
+.bs-22069:before, .bs-freighter:before {
     content: "\f398";
 }
-.bs-22105:before {
+.bs-22105:before, .bs-parachute:before {
     content: "\f399";
 }
-.bs-22107:before {
+.bs-22107:before, .bs-balloon_hot_air:before {
     content: "\f39a";
 }
-.bs-22116:before {
+.bs-22116:before, .bs-indoor_character:before {
     content: "\f39b";
 }
-.bs-22307:before {
+.bs-22307:before, .bs-pudding-cream:before {
     content: "\f39c";
 }
-.bs-22362:before {
+.bs-22362:before, .bs-lumps:before {
     content: "\f39d";
 }
-.bs-22365:before {
+.bs-22365:before, .bs-lollipop-sucker:before {
     content: "\f39e";
 }
-.bs-22366:before {
+.bs-22366:before, .bs-ice_cream_lollipop:before {
     content: "\f39f";
 }
-.bs-22369:before {
+.bs-22369:before, .bs-ice_cream-sherbet-sorbet:before {
     content: "\f3a0";
 }
-.bs-22371:before {
+.bs-22371:before, .bs-bar-cake:before {
     content: "\f3a1";
 }
-.bs-22375:before {
+.bs-22375:before, .bs-candy:before {
     content: "\f3a2";
 }
-.bs-22377:before {
+.bs-22377:before, .bs-mixture:before {
     content: "\f3a3";
 }
-.bs-22384:before {
+.bs-22384:before, .bs-reflection:before {
     content: "\f3a4";
 }
-.bs-22386:before {
+.bs-22386:before, .bs-shine:before {
     content: "\f3a5";
 }
-.bs-22561:before {
+.bs-22561:before, .bs-kitchen_tool-utensil:before {
     content: "\f3a6";
 }
-.bs-22574:before {
+.bs-22574:before, .bs-funnel:before {
     content: "\f3a7";
 }
-.bs-22577:before {
+.bs-22577:before, .bs-stovetop:before {
     content: "\f3a8";
 }
-.bs-22578:before {
+.bs-22578:before, .bs-cup:before {
     content: "\f3a9";
 }
-.bs-22579:before {
+.bs-22579:before, .bs-saucepan:before {
     content: "\f3aa";
 }
-.bs-22583:before {
+.bs-22583:before, .bs-lid:before {
     content: "\f3ab";
 }
-.bs-22584:before {
+.bs-22584:before, .bs-pot-kettle-boiler:before {
     content: "\f3ac";
 }
-.bs-22592:before {
+.bs-22592:before, .bs-rolling_pin:before {
     content: "\f3ad";
 }
-.bs-22598:before {
+.bs-22598:before, .bs-equator:before {
     content: "\f3ae";
 }
-.bs-22599:before {
+.bs-22599:before, .bs-South_Pole:before {
     content: "\f3af";
 }
-.bs-22600:before {
+.bs-22600:before, .bs-North_Pole:before {
     content: "\f3b0";
 }
-.bs-22613:before {
+.bs-22613:before, .bs-fjord:before {
     content: "\f3b1";
 }
-.bs-22618:before {
+.bs-22618:before, .bs-crown:before {
     content: "\f3b2";
 }
-.bs-22625:before {
+.bs-22625:before, .bs-inlet:before {
     content: "\f3b3";
 }
-.bs-22834:before {
+.bs-22834:before, .bs-planet:before {
     content: "\f3b4";
 }
-.bs-22837:before {
+.bs-22837:before, .bs-pod-seedcase-seedpod:before {
     content: "\f3b5";
 }
-.bs-22911:before {
+.bs-22911:before, .bs-doubt-uncertainty:before {
     content: "\f3b6";
 }
-.bs-22913:before {
+.bs-22913:before, .bs-leadership-guidance:before {
     content: "\f3b7";
 }
-.bs-22914:before {
+.bs-22914:before, .bs-must_a:before {
     content: "\f3b8";
 }
-.bs-23026:before {
+.bs-23026:before, .bs-attic:before {
     content: "\f3b9";
 }
-.bs-23029:before {
+.bs-23029:before, .bs-basement-cellar:before {
     content: "\f3ba";
 }
-.bs-23044:before {
+.bs-23044:before, .bs-cod-codfish:before {
     content: "\f3bb";
 }
-.bs-23085:before {
+.bs-23085:before, .bs-floor-storey-level-etage:before {
     content: "\f3bc";
 }
-.bs-23089:before {
+.bs-23089:before, .bs-foundation_building:before {
     content: "\f3bd";
 }
-.bs-23097:before {
+.bs-23097:before, .bs-goat:before {
     content: "\f3be";
 }
-.bs-23117:before {
+.bs-23117:before, .bs-horizontal-a:before {
     content: "\f3bf";
 }
-.bs-23124:before {
+.bs-23124:before, .bs-jellyfish:before {
     content: "\f3c0";
 }
-.bs-23127:before {
+.bs-23127:before, .bs-judgement-law_in_combinations:before {
     content: "\f3c1";
 }
-.bs-23150:before {
+.bs-23150:before, .bs-metal_bar:before {
     content: "\f3c2";
 }
-.bs-23169:before {
+.bs-23169:before, .bs-pressure:before {
     content: "\f3c3";
 }
-.bs-23193:before {
+.bs-23193:before, .bs-row_house-attached_houses:before {
     content: "\f3c4";
 }
-.bs-23201:before {
+.bs-23201:before, .bs-semi-detached_house:before {
     content: "\f3c5";
 }
-.bs-23204:before {
+.bs-23204:before, .bs-shellfish_without_claws:before {
     content: "\f3c6";
 }
-.bs-23223:before {
+.bs-23223:before, .bs-store-shop:before {
     content: "\f3c7";
 }
-.bs-23230:before {
+.bs-23230:before, .bs-tax:before {
     content: "\f3c8";
 }
-.bs-23240:before {
+.bs-23240:before, .bs-tower:before {
     content: "\f3c9";
 }
-.bs-23250:before {
+.bs-23250:before, .bs-vertical-a:before {
     content: "\f3ca";
 }
-.bs-23409:before {
+.bs-23409:before, .bs-attachment-appendix-annex:before {
     content: "\f3cb";
 }
-.bs-23431:before {
+.bs-23431:before, .bs-card:before {
     content: "\f3cc";
 }
-.bs-23437:before {
+.bs-23437:before, .bs-castle-palace:before {
     content: "\f3cd";
 }
-.bs-23439:before {
+.bs-23439:before, .bs-causality:before {
     content: "\f3ce";
 }
-.bs-23472:before {
+.bs-23472:before, .bs-Dharma_wheel:before {
     content: "\f3cf";
 }
-.bs-23475:before {
+.bs-23475:before, .bs-digital_processing-artificial_intelligence-calculation:before {
     content: "\f3d0";
 }
-.bs-23476:before {
+.bs-23476:before, .bs-digits_computer:before {
     content: "\f3d1";
 }
-.bs-23477:before {
+.bs-23477:before, .bs-dinosaur:before {
     content: "\f3d2";
 }
-.bs-23488:before {
+.bs-23488:before, .bs-enter_computer:before {
     content: "\f3d3";
 }
-.bs-23500:before {
+.bs-23500:before, .bs-file-data_file_digital:before {
     content: "\f3d4";
 }
-.bs-23511:before {
+.bs-23511:before, .bs-folder:before {
     content: "\f3d5";
 }
-.bs-23527:before {
+.bs-23527:before, .bs-hedgehog:before {
     content: "\f3d6";
 }
-.bs-23542:before {
+.bs-23542:before, .bs-information:before {
     content: "\f3d7";
 }
-.bs-23550:before {
+.bs-23550:before, .bs-jump:before {
     content: "\f3d8";
 }
-.bs-23576:before {
+.bs-23576:before, .bs-make-believe_man:before {
     content: "\f3d9";
 }
-.bs-23577:before {
+.bs-23577:before, .bs-make-believe_person-imaginary_person:before {
     content: "\f3da";
 }
-.bs-23581:before {
+.bs-23581:before, .bs-make-believe_woman:before {
     content: "\f3db";
 }
-.bs-23583:before {
+.bs-23583:before, .bs-making-production-fashioning:before {
     content: "\f3dc";
 }
-.bs-23589:before {
+.bs-23589:before, .bs-memory:before {
     content: "\f3dd";
 }
-.bs-23599:before {
+.bs-23599:before, .bs-oval:before {
     content: "\f3de";
 }
-.bs-23603:before {
+.bs-23603:before, .bs-pancake-crepe-tortilla:before {
     content: "\f3df";
 }
-.bs-23619:before {
+.bs-23619:before, .bs-pointing:before {
     content: "\f3e0";
 }
-.bs-23627:before {
+.bs-23627:before, .bs-quills-spines:before {
     content: "\f3e1";
 }
-.bs-23629:before {
+.bs-23629:before, .bs-ramp:before {
     content: "\f3e2";
 }
-.bs-23658:before {
+.bs-23658:before, .bs-seaweed:before {
     content: "\f3e3";
 }
-.bs-23673:before {
+.bs-23673:before, .bs-tabletop:before {
     content: "\f3e4";
 }
-.bs-23690:before {
+.bs-23690:before, .bs-track:before {
     content: "\f3e5";
 }
-.bs-23702:before {
+.bs-23702:before, .bs-unicorn:before {
     content: "\f3e6";
 }
-.bs-23706:before {
+.bs-23706:before, .bs-water_creature:before {
     content: "\f3e7";
 }
-.bs-23803:before {
+.bs-23803:before, .bs-alto:before {
     content: "\f3e8";
 }
-.bs-23809:before {
+.bs-23809:before, .bs-bass:before {
     content: "\f3e9";
 }
-.bs-23817:before {
+.bs-23817:before, .bs-bow-arc:before {
     content: "\f3ea";
 }
-.bs-23818:before {
+.bs-23818:before, .bs-bow_musical_instrument:before {
     content: "\f3eb";
 }
-.bs-23819:before {
+.bs-23819:before, .bs-bow_and_string_musical:before {
     content: "\f3ec";
 }
-.bs-23833:before {
+.bs-23833:before, .bs-celeriac-celery:before {
     content: "\f3ed";
 }
-.bs-23839:before {
+.bs-23839:before, .bs-condensation:before {
     content: "\f3ee";
 }
-.bs-23854:before {
+.bs-23854:before, .bs-drum_1:before {
     content: "\f3ef";
 }
-.bs-23859:before {
+.bs-23859:before, .bs-dryness-drought:before {
     content: "\f3f0";
 }
-.bs-23871:before {
+.bs-23871:before, .bs-flute-recorder:before {
     content: "\f3f1";
 }
-.bs-23872:before {
+.bs-23872:before, .bs-flute-transverse_flute:before {
     content: "\f3f2";
 }
-.bs-23886:before {
+.bs-23886:before, .bs-humidity:before {
     content: "\f3f3";
 }
-.bs-23892:before {
+.bs-23892:before, .bs-keyboard:before {
     content: "\f3f4";
 }
-.bs-23904:before {
+.bs-23904:before, .bs-musical_instrument_in_combinations:before {
     content: "\f3f5";
 }
-.bs-23926:before {
+.bs-23926:before, .bs-pipe-hose-tube_2:before {
     content: "\f3f6";
 }
-.bs-23927:before {
+.bs-23927:before, .bs-pipe-tube_closed:before {
     content: "\f3f7";
 }
-.bs-23929:before {
+.bs-23929:before, .bs-pitch_sound:before {
     content: "\f3f8";
 }
-.bs-23942:before {
+.bs-23942:before, .bs-reed:before {
     content: "\f3f9";
 }
-.bs-23952:before {
+.bs-23952:before, .bs-soprano:before {
     content: "\f3fa";
 }
-.bs-23955:before {
+.bs-23955:before, .bs-stave-staff:before {
     content: "\f3fb";
 }
-.bs-23958:before {
+.bs-23958:before, .bs-string:before {
     content: "\f3fc";
 }
-.bs-23959:before {
+.bs-23959:before, .bs-string_for_musical_instrument:before {
     content: "\f3fd";
 }
-.bs-23966:before {
+.bs-23966:before, .bs-tenor:before {
     content: "\f3fe";
 }
-.bs-24015:before {
+.bs-24015:before, .bs-asparagus:before {
     content: "\f3ff";
 }
-.bs-24051:before {
+.bs-24051:before, .bs-chairman:before {
     content: "\f400";
 }
-.bs-24098:before {
+.bs-24098:before, .bs-existence-being_1:before {
     content: "\f401";
 }
-.bs-24120:before {
+.bs-24120:before, .bs-foundation-base-fundament:before {
     content: "\f402";
 }
-.bs-24155:before {
+.bs-24155:before, .bs-hoof:before {
     content: "\f403";
 }
-.bs-24176:before {
+.bs-24176:before, .bs-kidney:before {
     content: "\f404";
 }
-.bs-24196:before {
+.bs-24196:before, .bs-muzzle:before {
     content: "\f405";
 }
-.bs-24198:before {
+.bs-24198:before, .bs-navel:before {
     content: "\f406";
 }
-.bs-24210:before {
+.bs-24210:before, .bs-personality:before {
     content: "\f407";
 }
-.bs-24214:before {
+.bs-24214:before, .bs-platform-stage:before {
     content: "\f408";
 }
-.bs-24216:before {
+.bs-24216:before, .bs-politics:before {
     content: "\f409";
 }
-.bs-24240:before {
+.bs-24240:before, .bs-responsibility:before {
     content: "\f40a";
 }
-.bs-24249:before {
+.bs-24249:before, .bs-rotation-circulation-orbit-lap-circle-round:before {
     content: "\f40b";
 }
-.bs-24272:before {
+.bs-24272:before, .bs-somersault:before {
     content: "\f40c";
 }
-.bs-24281:before {
+.bs-24281:before, .bs-square_public:before {
     content: "\f40d";
 }
-.bs-24302:before {
+.bs-24302:before, .bs-tadpole:before {
     content: "\f40e";
 }
-.bs-24309:before {
+.bs-24309:before, .bs-that_conj:before {
     content: "\f40f";
 }
-.bs-24332:before {
+.bs-24332:before, .bs-vehicle_long:before {
     content: "\f410";
 }
-.bs-24422:before {
+.bs-24422:before, .bs-bump-press-pressing:before {
     content: "\f411";
 }
-.bs-24443:before {
+.bs-24443:before, .bs-being_state_of:before {
     content: "\f412";
 }
-.bs-24445:before {
+.bs-24445:before, .bs-failure:before {
     content: "\f413";
 }
-.bs-24451:before {
+.bs-24451:before, .bs-galaxy:before {
     content: "\f414";
 }
-.bs-24482:before {
+.bs-24482:before, .bs-mental_illness:before {
     content: "\f415";
 }
-.bs-24515:before {
+.bs-24515:before, .bs-substance:before {
     content: "\f416";
 }
-.bs-24518:before {
+.bs-24518:before, .bs-tile:before {
     content: "\f417";
 }
-.bs-24605:before {
+.bs-24605:before, .bs-Earth_axis-axis:before {
     content: "\f418";
 }
-.bs-24638:before {
+.bs-24638:before, .bs-digital_device:before {
     content: "\f419";
 }
-.bs-24714:before {
+.bs-24714:before, .bs-portability:before {
     content: "\f41a";
 }
-.bs-24717:before {
+.bs-24717:before, .bs-potty-chamber_pot-bedpan:before {
     content: "\f41b";
 }
-.bs-24726:before {
+.bs-24726:before, .bs-receiver-dish:before {
     content: "\f41c";
 }
-.bs-24727:before {
+.bs-24727:before, .bs-acquiring-getting-receiving:before {
     content: "\f41d";
 }
-.bs-24739:before {
+.bs-24739:before, .bs-satellite:before {
     content: "\f41e";
 }
-.bs-24750:before {
+.bs-24750:before, .bs-signal-broadcast-transmitting:before {
     content: "\f41f";
 }
-.bs-24761:before {
+.bs-24761:before, .bs-step-stair:before {
     content: "\f420";
 }
-.bs-24778:before {
+.bs-24778:before, .bs-water_flower-water_lily:before {
     content: "\f421";
 }
-.bs-24801:before {
+.bs-24801:before, .bs-bears_head:before {
     content: "\f422";
 }
-.bs-24805:before {
+.bs-24805:before, .bs-jump_backward:before {
     content: "\f423";
 }
-.bs-24806:before {
+.bs-24806:before, .bs-scale-measurement:before {
     content: "\f424";
 }
-.bs-24825:before {
+.bs-24825:before, .bs-push-pushing:before {
     content: "\f425";
 }
-.bs-24833:before {
+.bs-24833:before, .bs-wish-desire:before {
     content: "\f426";
 }
-.bs-24846:before {
+.bs-24846:before, .bs-observation:before {
     content: "\f427";
 }
-.bs-24847:before {
+.bs-24847:before, .bs-usage-use:before {
     content: "\f428";
 }
-.bs-24852:before {
+.bs-24852:before, .bs-break-fracture-injury-damage:before {
     content: "\f429";
 }
-.bs-24855:before {
+.bs-24855:before, .bs-fight-combat:before {
     content: "\f42a";
 }
-.bs-24859:before {
+.bs-24859:before, .bs-visit:before {
     content: "\f42b";
 }
-.bs-24875:before {
+.bs-24875:before, .bs-bigness-largeness:before {
     content: "\f42c";
 }
-.bs-24879:before {
+.bs-24879:before, .bs-comparative_more:before {
     content: "\f42d";
 }
-.bs-24880:before {
+.bs-24880:before, .bs-consideration-thoughtfulness:before {
     content: "\f42e";
 }
-.bs-24883:before {
+.bs-24883:before, .bs-deletion-cancellation-destruction:before {
     content: "\f42f";
 }
-.bs-24884:before {
+.bs-24884:before, .bs-difficulty:before {
     content: "\f430";
 }
-.bs-24887:before {
+.bs-24887:before, .bs-dispersion-dissemination-scattering-spread-spreading:before {
     content: "\f431";
 }
-.bs-24889:before {
+.bs-24889:before, .bs-earmuffs_general:before {
     content: "\f432";
 }
-.bs-24890:before {
+.bs-24890:before, .bs-ease-easiness-simplicity:before {
     content: "\f433";
 }
-.bs-24891:before {
+.bs-24891:before, .bs-emptying-voidance-evacuation:before {
     content: "\f434";
 }
-.bs-24895:before {
+.bs-24895:before, .bs-fantasy-phantasy-imagination-illusion:before {
     content: "\f435";
 }
-.bs-24897:before {
+.bs-24897:before, .bs-filling-fill-fullness:before {
     content: "\f436";
 }
-.bs-24899:before {
+.bs-24899:before, .bs-forgetting-amnesia:before {
     content: "\f437";
 }
-.bs-24903:before {
+.bs-24903:before, .bs-giving-gift:before {
     content: "\f438";
 }
-.bs-24904:before {
+.bs-24904:before, .bs-grid-matrix:before {
     content: "\f439";
 }
-.bs-24906:before {
+.bs-24906:before, .bs-half-one-half:before {
     content: "\f43a";
 }
-.bs-24909:before {
+.bs-24909:before, .bs-height-tallness:before {
     content: "\f43b";
 }
-.bs-24912:before {
+.bs-24912:before, .bs-holding:before {
     content: "\f43c";
 }
-.bs-24913:before {
+.bs-24913:before, .bs-importance-significance:before {
     content: "\f43d";
 }
-.bs-24916:before {
+.bs-24916:before, .bs-interest:before {
     content: "\f43e";
 }
-.bs-24917:before {
+.bs-24917:before, .bs-littleness-smallness:before {
     content: "\f43f";
 }
-.bs-24918:before {
+.bs-24918:before, .bs-lowness-shortness_height:before {
     content: "\f440";
 }
-.bs-24920:before {
+.bs-24920:before, .bs-medicine-medical_practice:before {
     content: "\f441";
 }
-.bs-24925:before {
+.bs-24925:before, .bs-ownership-possession:before {
     content: "\f442";
 }
-.bs-24926:before {
+.bs-24926:before, .bs-permission-allowance:before {
     content: "\f443";
 }
-.bs-24927:before {
+.bs-24927:before, .bs-persuasion:before {
     content: "\f444";
 }
-.bs-24932:before {
+.bs-24932:before, .bs-quarter-one_quarter:before {
     content: "\f445";
 }
-.bs-24934:before {
+.bs-24934:before, .bs-repetition-copying-duplication-replication:before {
     content: "\f446";
 }
-.bs-24937:before {
+.bs-24937:before, .bs-selfishness-egoism:before {
     content: "\f447";
 }
-.bs-24938:before {
+.bs-24938:before, .bs-shortness_distance-length:before {
     content: "\f448";
 }
-.bs-24940:before {
+.bs-24940:before, .bs-spray-vaporization:before {
     content: "\f449";
 }
-.bs-24941:before {
+.bs-24941:before, .bs-strength:before {
     content: "\f44a";
 }
-.bs-24944:before {
+.bs-24944:before, .bs-superlative_most:before {
     content: "\f44b";
 }
-.bs-24949:before {
+.bs-24949:before, .bs-wakefulness-alertness:before {
     content: "\f44c";
 }
-.bs-24961:before {
+.bs-24961:before, .bs-slang:before {
     content: "\f44d";
 }
-.bs-24962:before {
+.bs-24962:before, .bs-coarse_slang:before {
     content: "\f44e";
 }
-.bs-25011:before {
+.bs-25011:before, .bs-alphabet-letters_uppercase:before {
     content: "\f44f";
 }
-.bs-25070:before {
+.bs-25070:before, .bs-gravity-gravitation:before {
     content: "\f450";
 }
-.bs-25119:before {
+.bs-25119:before, .bs-move-movement:before {
     content: "\f451";
 }
-.bs-25132:before {
+.bs-25132:before, .bs-oppression-captivity-slavery:before {
     content: "\f452";
 }
-.bs-25133:before {
+.bs-25133:before, .bs-out_of_backward:before {
     content: "\f453";
 }
-.bs-25134:before {
+.bs-25134:before, .bs-out_of_upward:before {
     content: "\f454";
 }
-.bs-25267:before {
+.bs-25267:before, .bs-bird_of_prey-raptor-falcon-hawk-eagle:before {
     content: "\f455";
 }
-.bs-25290:before {
+.bs-25290:before, .bs-electric_field:before {
     content: "\f456";
 }
-.bs-25311:before {
+.bs-25311:before, .bs-front-front_of_a_thing:before {
     content: "\f457";
 }
-.bs-25339:before {
+.bs-25339:before, .bs-magnetic_field:before {
     content: "\f458";
 }
-.bs-25340:before {
+.bs-25340:before, .bs-magnetism:before {
     content: "\f459";
 }
-.bs-25362:before {
+.bs-25362:before, .bs-propeller-rotor_blades:before {
     content: "\f45a";
 }
-.bs-25364:before {
+.bs-25364:before, .bs-rear-back_of_a_thing:before {
     content: "\f45b";
 }
-.bs-25379:before {
+.bs-25379:before, .bs-state_of_mind:before {
     content: "\f45c";
 }
-.bs-25387:before {
+.bs-25387:before, .bs-top-top_of_a_thing:before {
     content: "\f45d";
 }
-.bs-25396:before {
+.bs-25396:before, .bs-voltage:before {
     content: "\f45e";
 }
-.bs-25401:before {
+.bs-25401:before, .bs-ascending_and_descending:before {
     content: "\f45f";
 }
-.bs-25406:before {
+.bs-25406:before, .bs-swing-swinging:before {
     content: "\f460";
 }
-.bs-25408:before {
+.bs-25408:before, .bs-bottom-bottom_of_a_thing:before {
     content: "\f461";
 }
-.bs-25434:before {
+.bs-25434:before, .bs-brain_signal:before {
     content: "\f462";
 }
-.bs-25480:before {
+.bs-25480:before, .bs-organ-inner_organ-inner_body_part:before {
     content: "\f463";
 }
-.bs-25520:before {
+.bs-25520:before, .bs-ability_half_sized:before {
     content: "\f464";
 }
-.bs-25521:before {
+.bs-25521:before, .bs-animal_bushy_tailed:before {
     content: "\f465";
 }
-.bs-25522:before {
+.bs-25522:before, .bs-away-at_a_distance-off:before {
     content: "\f466";
 }
-.bs-25523:before {
+.bs-25523:before, .bs-bad_conscience:before {
     content: "\f467";
 }
-.bs-25524:before {
+.bs-25524:before, .bs-ball_field:before {
     content: "\f468";
 }
-.bs-25525:before {
+.bs-25525:before, .bs-biochemical_product-organic_compound:before {
     content: "\f469";
 }
-.bs-25526:before {
+.bs-25526:before, .bs-blindness:before {
     content: "\f46a";
 }
-.bs-25527:before {
+.bs-25527:before, .bs-boarding-embarkation_to_sea:before {
     content: "\f46b";
 }
-.bs-25528:before {
+.bs-25528:before, .bs-bones_with_joint:before {
     content: "\f46c";
 }
-.bs-25529:before {
+.bs-25529:before, .bs-bottleneck-bottle_opening:before {
     content: "\f46d";
 }
-.bs-25530:before {
+.bs-25530:before, .bs-bread_surface:before {
     content: "\f46e";
 }
-.bs-25531:before {
+.bs-25531:before, .bs-buttocks_and_genitals:before {
     content: "\f46f";
 }
-.bs-25532:before {
+.bs-25532:before, .bs-case-casing:before {
     content: "\f470";
 }
-.bs-25533:before {
+.bs-25533:before, .bs-coldness-cold:before {
     content: "\f471";
 }
-.bs-25534:before {
+.bs-25534:before, .bs-compression-compressing-squeezing:before {
     content: "\f472";
 }
-.bs-25535:before {
+.bs-25535:before, .bs-container-basket_high:before {
     content: "\f473";
 }
-.bs-25536:before {
+.bs-25536:before, .bs-container_low:before {
     content: "\f474";
 }
-.bs-25537:before {
+.bs-25537:before, .bs-corner:before {
     content: "\f475";
 }
-.bs-25538:before {
+.bs-25538:before, .bs-correct_thinking:before {
     content: "\f476";
 }
-.bs-25539:before {
+.bs-25539:before, .bs-incorrect_thinking:before {
     content: "\f477";
 }
-.bs-25540:before {
+.bs-25540:before, .bs-couple_female:before {
     content: "\f478";
 }
-.bs-25541:before {
+.bs-25541:before, .bs-couple_male:before {
     content: "\f479";
 }
-.bs-25543:before {
+.bs-25543:before, .bs-deafness:before {
     content: "\f47a";
 }
-.bs-25544:before {
+.bs-25544:before, .bs-debarkation-disembarkation_ashore:before {
     content: "\f47b";
 }
-.bs-25545:before {
+.bs-25545:before, .bs-adversity-hardship-setback:before {
     content: "\f47c";
 }
-.bs-25546:before {
+.bs-25546:before, .bs-depth:before {
     content: "\f47d";
 }
-.bs-25547:before {
+.bs-25547:before, .bs-miscarriage-abortion_general:before {
     content: "\f47e";
 }
-.bs-25548:before {
+.bs-25548:before, .bs-detachment-separation-breakup:before {
     content: "\f47f";
 }
-.bs-25549:before {
+.bs-25549:before, .bs-diamond_character:before {
     content: "\f480";
 }
-.bs-25550:before {
+.bs-25550:before, .bs-digging-excavation:before {
     content: "\f481";
 }
-.bs-25551:before {
+.bs-25551:before, .bs-digital_space_limited:before {
     content: "\f482";
 }
-.bs-25552:before {
+.bs-25552:before, .bs-digital_world:before {
     content: "\f483";
 }
-.bs-25553:before {
+.bs-25553:before, .bs-disturbance-unrest:before {
     content: "\f484";
 }
-.bs-25554:before {
+.bs-25554:before, .bs-evaluation-value_half-sized:before {
     content: "\f485";
 }
-.bs-25555:before {
+.bs-25555:before, .bs-exchange-substitution:before {
     content: "\f486";
 }
-.bs-25556:before {
+.bs-25556:before, .bs-extinction-extinguishing_fire:before {
     content: "\f487";
 }
-.bs-25557:before {
+.bs-25557:before, .bs-eyelids:before {
     content: "\f488";
 }
-.bs-25558:before {
+.bs-25558:before, .bs-eyelid_lower:before {
     content: "\f489";
 }
-.bs-25559:before {
+.bs-25559:before, .bs-farness-remoteness-farawayness:before {
     content: "\f48a";
 }
-.bs-25560:before {
+.bs-25560:before, .bs-fatness-thickness:before {
     content: "\f48b";
 }
-.bs-25562:before {
+.bs-25562:before, .bs-floating_container:before {
     content: "\f48c";
 }
-.bs-25563:before {
+.bs-25563:before, .bs-flower-bloom-blossom:before {
     content: "\f48d";
 }
-.bs-25564:before {
+.bs-25564:before, .bs-fold-folding-pleating:before {
     content: "\f48e";
 }
-.bs-25565:before {
+.bs-25565:before, .bs-freezing-hardening-solidifying:before {
     content: "\f48f";
 }
-.bs-25566:before {
+.bs-25566:before, .bs-from_sky:before {
     content: "\f490";
 }
-.bs-25567:before {
+.bs-25567:before, .bs-fruit_pointed:before {
     content: "\f491";
 }
-.bs-25568:before {
+.bs-25568:before, .bs-future_uncertain:before {
     content: "\f492";
 }
-.bs-25569:before {
+.bs-25569:before, .bs-good_conscience:before {
     content: "\f493";
 }
-.bs-25570:before {
+.bs-25570:before, .bs-hidden_thing:before {
     content: "\f494";
 }
-.bs-25571:before {
+.bs-25571:before, .bs-horse_neck:before {
     content: "\f495";
 }
-.bs-25572:before {
+.bs-25572:before, .bs-horse_rump:before {
     content: "\f496";
 }
-.bs-25573:before {
+.bs-25573:before, .bs-hypodermic_needlepoint:before {
     content: "\f497";
 }
-.bs-25574:before {
+.bs-25574:before, .bs-hypothesis-theory:before {
     content: "\f498";
 }
-.bs-25575:before {
+.bs-25575:before, .bs-imprint-depression:before {
     content: "\f499";
 }
-.bs-25576:before {
+.bs-25576:before, .bs-insurance:before {
     content: "\f49a";
 }
-.bs-25577:before {
+.bs-25577:before, .bs-left_turn-left_position_or_direction:before {
     content: "\f49b";
 }
-.bs-25578:before {
+.bs-25578:before, .bs-leg_and_foot:before {
     content: "\f49c";
 }
-.bs-25579:before {
+.bs-25579:before, .bs-limits-limitation-restriction:before {
     content: "\f49d";
 }
-.bs-25580:before {
+.bs-25580:before, .bs-mane_lion_etc:before {
     content: "\f49e";
 }
-.bs-25581:before {
+.bs-25581:before, .bs-mash-mush-pulp_food:before {
     content: "\f49f";
 }
-.bs-25582:before {
+.bs-25582:before, .bs-mask_disguise:before {
     content: "\f4a0";
 }
-.bs-25583:before {
+.bs-25583:before, .bs-meeting-encounter:before {
     content: "\f4a1";
 }
-.bs-25584:before {
+.bs-25584:before, .bs-meeting_and_parting:before {
     content: "\f4a2";
 }
-.bs-25585:before {
+.bs-25585:before, .bs-metaphor_winged:before {
     content: "\f4a3";
 }
-.bs-25586:before {
+.bs-25586:before, .bs-nearness-closeness-proximity:before {
     content: "\f4a4";
 }
-.bs-25587:before {
+.bs-25587:before, .bs-newness-novelty:before {
     content: "\f4a5";
 }
-.bs-25588:before {
+.bs-25588:before, .bs-no_speech-anarthria:before {
     content: "\f4a6";
 }
-.bs-25589:before {
+.bs-25589:before, .bs-opposing_forces-counter-forces:before {
     content: "\f4a7";
 }
-.bs-25590:before {
+.bs-25590:before, .bs-out_of_body_upward-regurgitation:before {
     content: "\f4a8";
 }
-.bs-25591:before {
+.bs-25591:before, .bs-outdoor_character:before {
     content: "\f4a9";
 }
-.bs-25592:before {
+.bs-25592:before, .bs-parting:before {
     content: "\f4aa";
 }
-.bs-25593:before {
+.bs-25593:before, .bs-permission-allowance_moral:before {
     content: "\f4ab";
 }
-.bs-25594:before {
+.bs-25594:before, .bs-pizza_slices-sectors-circle_sectors:before {
     content: "\f4ac";
 }
-.bs-25595:before {
+.bs-25595:before, .bs-plus_minus:before {
     content: "\f4ad";
 }
-.bs-25596:before {
+.bs-25596:before, .bs-plus_sign_low:before {
     content: "\f4ae";
 }
-.bs-25597:before {
+.bs-25597:before, .bs-protected_water:before {
     content: "\f4af";
 }
-.bs-25598:before {
+.bs-25598:before, .bs-protection_with_pointer:before {
     content: "\f4b0";
 }
-.bs-25599:before {
+.bs-25599:before, .bs-pull-pulling:before {
     content: "\f4b1";
 }
-.bs-25600:before {
+.bs-25600:before, .bs-raised_wavy_line:before {
     content: "\f4b2";
 }
-.bs-25601:before {
+.bs-25601:before, .bs-recording_disk:before {
     content: "\f4b3";
 }
-.bs-25602:before {
+.bs-25602:before, .bs-reflection_mental-consideration:before {
     content: "\f4b4";
 }
-.bs-25603:before {
+.bs-25603:before, .bs-ride-drive:before {
     content: "\f4b5";
 }
-.bs-25604:before {
+.bs-25604:before, .bs-right_turn-right_position_or_direction:before {
     content: "\f4b6";
 }
-.bs-25605:before {
+.bs-25605:before, .bs-ruin-wreck-wreckage_building_1:before {
     content: "\f4b7";
 }
-.bs-25606:before {
+.bs-25606:before, .bs-shallowness:before {
     content: "\f4b8";
 }
-.bs-25607:before {
+.bs-25607:before, .bs-shekel_character:before {
     content: "\f4b9";
 }
-.bs-25608:before {
+.bs-25608:before, .bs-shuttlecock-birdie_badminton:before {
     content: "\f4ba";
 }
-.bs-25609:before {
+.bs-25609:before, .bs-sitski-sit_ski:before {
     content: "\f4bb";
 }
-.bs-25610:before {
+.bs-25610:before, .bs-ski-runner_sled_etc:before {
     content: "\f4bc";
 }
-.bs-25611:before {
+.bs-25611:before, .bs-smoking_cigarette:before {
     content: "\f4bd";
 }
-.bs-25612:before {
+.bs-25612:before, .bs-smoking_pipe:before {
     content: "\f4be";
 }
-.bs-25613:before {
+.bs-25613:before, .bs-snowshoe:before {
     content: "\f4bf";
 }
-.bs-25614:before {
+.bs-25614:before, .bs-projectile-rocket-spacecraft:before {
     content: "\f4c0";
 }
-.bs-25615:before {
+.bs-25615:before, .bs-sperm_destruction:before {
     content: "\f4c1";
 }
-.bs-25616:before {
+.bs-25616:before, .bs-spiral:before {
     content: "\f4c2";
 }
-.bs-25617:before {
+.bs-25617:before, .bs-spitting:before {
     content: "\f4c3";
 }
-.bs-25618:before {
+.bs-25618:before, .bs-sport_stick_and_ball-bandy_stick:before {
     content: "\f4c4";
 }
-.bs-25619:before {
+.bs-25619:before, .bs-sport_stick_and_puck-hockey_stick:before {
     content: "\f4c5";
 }
-.bs-25620:before {
+.bs-25620:before, .bs-square_oblique:before {
     content: "\f4c6";
 }
-.bs-25621:before {
+.bs-25621:before, .bs-thawing-melting:before {
     content: "\f4c7";
 }
-.bs-25622:before {
+.bs-25622:before, .bs-thinness-narrowness:before {
     content: "\f4c8";
 }
-.bs-25624:before {
+.bs-25624:before, .bs-trailer-container_transport:before {
     content: "\f4c9";
 }
-.bs-25625:before {
+.bs-25625:before, .bs-transport-transportation:before {
     content: "\f4ca";
 }
-.bs-25626:before {
+.bs-25626:before, .bs-tree_or_wood_destruction:before {
     content: "\f4cb";
 }
-.bs-25627:before {
+.bs-25627:before, .bs-turn-turning:before {
     content: "\f4cc";
 }
-.bs-25628:before {
+.bs-25628:before, .bs-under_ground_level:before {
     content: "\f4cd";
 }
-.bs-25629:before {
+.bs-25629:before, .bs-understanding-comprehension:before {
     content: "\f4ce";
 }
-.bs-25630:before {
+.bs-25630:before, .bs-unfolding:before {
     content: "\f4cf";
 }
-.bs-25631:before {
+.bs-25631:before, .bs-Union_Jack_pattern:before {
     content: "\f4d0";
 }
-.bs-25632:before {
+.bs-25632:before, .bs-water_animal_big_tail:before {
     content: "\f4d1";
 }
-.bs-25633:before {
+.bs-25633:before, .bs-water_on_ground_flooding:before {
     content: "\f4d2";
 }
-.bs-25634:before {
+.bs-25634:before, .bs-wideness-broadness:before {
     content: "\f4d3";
 }
-.bs-25635:before {
+.bs-25635:before, .bs-wok-wok_pan:before {
     content: "\f4d4";
 }
-.bs-25636:before {
+.bs-25636:before, .bs-woman_below_waist:before {
     content: "\f4d5";
 }
-.bs-25681:before {
+.bs-25681:before, .bs-claw_shellfish:before {
     content: "\f4d6";
 }
-.bs-25710:before {
+.bs-25710:before, .bs-family-couple_female:before {
     content: "\f4d7";
 }
-.bs-25711:before {
+.bs-25711:before, .bs-family-couple_male:before {
     content: "\f4d8";
 }
-.bs-25712:before {
+.bs-25712:before, .bs-family_female:before {
     content: "\f4d9";
 }
-.bs-25713:before {
+.bs-25713:before, .bs-family_male:before {
     content: "\f4da";
 }
-.bs-25748:before {
+.bs-25748:before, .bs-layer-level:before {
     content: "\f4db";
 }
-.bs-25777:before {
+.bs-25777:before, .bs-puddle-pool-water_ground_level:before {
     content: "\f4dc";
 }
-.bs-25779:before {
+.bs-25779:before, .bs-reality:before {
     content: "\f4dd";
 }
-.bs-25783:before {
+.bs-25783:before, .bs-root:before {
     content: "\f4de";
 }
-.bs-25812:before {
+.bs-25812:before, .bs-stepparent-step-parent:before {
     content: "\f4df";
 }
-.bs-25822:before {
+.bs-25822:before, .bs-tooth:before {
     content: "\f4e0";
 }
-.bs-25878:before {
+.bs-25878:before, .bs-fiber-fibre-fibril-filament-strand:before {
     content: "\f4e1";
 }
-.bs-25894:before {
+.bs-25894:before, .bs-into_backward:before {
     content: "\f4e2";
 }
-.bs-25895:before {
+.bs-25895:before, .bs-into_downward:before {
     content: "\f4e3";
 }
-.bs-25896:before {
+.bs-25896:before, .bs-into_upward:before {
     content: "\f4e4";
 }
-.bs-25972:before {
+.bs-25972:before, .bs-zigzag_line:before {
     content: "\f4e5";
 }
-.bs-26040:before {
+.bs-26040:before, .bs-body_with_mane:before {
     content: "\f4e6";
 }
-.bs-26041:before {
+.bs-26041:before, .bs-body_with_navel:before {
     content: "\f4e7";
 }
-.bs-26042:before {
+.bs-26042:before, .bs-body_with_pubic_hair:before {
     content: "\f4e8";
 }
-.bs-26043:before {
+.bs-26043:before, .bs-building_with_attic:before {
     content: "\f4e9";
 }
-.bs-26044:before {
+.bs-26044:before, .bs-building_with_cellar:before {
     content: "\f4ea";
 }
-.bs-26045:before {
+.bs-26045:before, .bs-building_with_chimney:before {
     content: "\f4eb";
 }
-.bs-26046:before {
+.bs-26046:before, .bs-building_with_foundation:before {
     content: "\f4ec";
 }
-.bs-26047:before {
+.bs-26047:before, .bs-building_with_storey:before {
     content: "\f4ed";
 }
-.bs-26048:before {
+.bs-26048:before, .bs-building_with_yard_and_fence:before {
     content: "\f4ee";
 }
-.bs-26049:before {
+.bs-26049:before, .bs-buildings_with_courtyard:before {
     content: "\f4ef";
 }
-.bs-26050:before {
+.bs-26050:before, .bs-bulbous_plant:before {
     content: "\f4f0";
 }
-.bs-26051:before {
+.bs-26051:before, .bs-eye_with_eyebrow:before {
     content: "\f4f1";
 }
-.bs-26052:before {
+.bs-26052:before, .bs-face_with_beard:before {
     content: "\f4f2";
 }
-.bs-26053:before {
+.bs-26053:before, .bs-face_with_pimple:before {
     content: "\f4f3";
 }
-.bs-26054:before {
+.bs-26054:before, .bs-furred_animal:before {
     content: "\f4f4";
 }
-.bs-26055:before {
+.bs-26055:before, .bs-throat:before {
     content: "\f4f5";
 }
-.bs-26056:before {
+.bs-26056:before, .bs-head_with_hair:before {
     content: "\f4f6";
 }
-.bs-26057:before {
+.bs-26057:before, .bs-mountains_with_valley:before {
     content: "\f4f7";
 }
-.bs-26058:before {
+.bs-26058:before, .bs-out_of_body_downward-excretion:before {
     content: "\f4f8";
 }
-.bs-26059:before {
+.bs-26059:before, .bs-pointer-arrowhead:before {
     content: "\f4f9";
 }
-.bs-26060:before {
+.bs-26060:before, .bs-pointer-arrowhead_small:before {
     content: "\f4fa";
 }
-.bs-26061:before {
+.bs-26061:before, .bs-road_and_car:before {
     content: "\f4fb";
 }
-.bs-26062:before {
+.bs-26062:before, .bs-steering_wheel:before {
     content: "\f4fc";
 }
-.bs-26063:before {
+.bs-26063:before, .bs-street_and_building:before {
     content: "\f4fd";
 }
-.bs-26064:before {
+.bs-26064:before, .bs-one_third:before {
     content: "\f4fe";
 }
-.bs-26065:before {
+.bs-26065:before, .bs-two_thirds:before {
     content: "\f4ff";
 }
-.bs-26066:before {
+.bs-26066:before, .bs-three_quarters:before {
     content: "\f500";
 }
-.bs-26165:before {
+.bs-26165:before, .bs-environs:before {
     content: "\f501";
 }
-.bs-26197:before {
+.bs-26197:before, .bs-membrane-drumhead-drum_skin:before {
     content: "\f502";
 }
-.bs-26211:before {
+.bs-26211:before, .bs-northeast:before {
     content: "\f503";
 }
-.bs-26212:before {
+.bs-26212:before, .bs-northwest:before {
     content: "\f504";
 }
-.bs-26245:before {
+.bs-26245:before, .bs-southeast:before {
     content: "\f505";
 }
-.bs-26246:before {
+.bs-26246:before, .bs-southwest:before {
     content: "\f506";
 }
-.bs-26323:before {
+.bs-26323:before, .bs-pate-crown_body_part:before {
     content: "\f507";
 }
